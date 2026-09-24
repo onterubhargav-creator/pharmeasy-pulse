@@ -1,0 +1,2101 @@
+order_id,region,category,product,quantity,sales_inr,profit_inr,order_value_inr
+ORD2024,Kolkata,Fever,Dolo 650,2,162,32.4,162
+ORD1377,Hyderabad,Cardiac,Ecosprin,5,170,34.0,170
+ORD1717,Kolkata,Antibiotic,Azithral 500,6,366,73.2,366
+ORD1859,Delhi,Calcium,Shelcal,6,1062,212.4,1062
+ORD2660,Chennai,Calcium,Shelcal,2,222,44.4,222
+ORD1090,Kolkata,Antibiotic,Azithral 500,9,441,88.2,441
+ORD1861,Chennai,Fever,Dolo 650,6,846,169.2,846
+ORD1059,Bengaluru,Allergy,Cetirizine,4,172,34.4,172
+ORD1348,Mumbai,Cholesterol,Atorva,10,790,158.0,790
+ORD2979,Bengaluru,Cholesterol,Atorva,10,1250,249.99999999999997,1250
+ORD2669,Chennai,Acidity,Pan 40,3,138,27.6,138
+ORD1157,Chennai,Diabetes,Metformin,4,624,124.80000000000001,624
+ORD2112,Jaipur,Acidity,Pan 40,4,584,116.8,584
+ORD1992,Jaipur,Diabetes,Metformin,1,174,34.8,174
+ORD1641,Bengaluru,Antibiotic,Azithral 500,5,740,148.0,740
+ORD2670,Bengaluru,Cardiac,Ecosprin,9,846,169.2,846
+ORD1772,Mumbai,Acidity,Pan 40,8,552,110.4,552
+ORD2590,Chennai,Calcium,Shelcal,10,530,106.0,530
+ORD2968,Delhi,Cardiac,Ecosprin,9,1098,219.6,1098
+ORD3031,Mumbai,Cardiac,Ecosprin,7,350,70.0,350
+ORD2650,Delhi,Cholesterol,Atorva,6,642,128.4,642
+ORD2951,Bengaluru,Allergy,Cetirizine,3,276,55.2,276
+ORD1442,Kolkata,Cardiac,Ecosprin,9,1683,336.6,1683
+ORD1658,Ahmedabad,Allergy,Cetirizine,4,324,64.8,324
+ORD3063,Chennai,Acidity,Pan 40,8,720,144.0,720
+ORD2513,Hyderabad,Allergy,Cetirizine,6,894,178.8,894
+ORD2681,Bengaluru,Diabetes,Metformin,10,200,40.0,200
+ORD1914,Hyderabad,Fever,Dolo 650,6,576,115.2,576
+ORD1269,Delhi,Cholesterol,Atorva,4,544,108.8,544
+ORD2549,Mumbai,Fever,Dolo 650,7,889,177.8,889
+ORD1926,Jaipur,Acidity,Pan 40,1,62,12.4,62
+ORD2790,Bengaluru,Cholesterol,Atorva,6,630,126.0,630
+ORD1902,Delhi,Cholesterol,Atorva,7,1008,201.6,1008
+ORD2333,Bengaluru,Cholesterol,Atorva,8,1520,304.0,1520
+ORD1553,Chennai,Acidity,Pan 40,10,1220,244.0,1220
+ORD1777,Delhi,Diabetes,Metformin,10,1540,308.0,1540
+ORD1112,Kolkata,Fever,Dolo 650,4,672,134.4,672
+ORD3091,Bengaluru,Acidity,Pan 40,5,590,118.0,590
+ORD2182,Kolkata,Cardiac,Ecosprin,10,850,170.0,850
+ORD3093,Ahmedabad,Calcium,Shelcal,8,504,100.8,504
+ORD2068,Mumbai,Antibiotic,Azithral 500,6,1044,208.8,1044
+ORD1821,Bengaluru,Fever,Dolo 650,5,705,141.0,705
+ORD2281,Chennai,Acidity,Pan 40,8,1552,310.4,1552
+ORD2384,Mumbai,Acidity,Pan 40,5,940,188.0,940
+ORD1700,Ahmedabad,Cardiac,Ecosprin,2,292,58.4,292
+ORD2560,Jaipur,Antibiotic,Azithral 500,5,300,60.0,300
+ORD2752,Chennai,Acidity,Pan 40,3,414,82.8,414
+ORD1525,Chennai,Calcium,Shelcal,7,602,120.4,602
+ORD2095,Mumbai,Cholesterol,Atorva,9,360,72.0,360
+ORD2884,Ahmedabad,Diabetes,Metformin,2,380,76.0,380
+ORD1468,Mumbai,Allergy,Cetirizine,3,399,79.8,399
+ORD1477,Bengaluru,Cholesterol,Atorva,2,394,78.8,394
+ORD2735,Ahmedabad,Fever,Dolo 650,7,1085,217.0,1085
+ORD2988,Chennai,Calcium,Shelcal,9,279,55.8,279
+ORD1905,Chennai,Fever,Dolo 650,1,128,25.6,128
+ORD2408,Hyderabad,Allergy,Cetirizine,9,747,149.4,747
+ORD2412,Hyderabad,Allergy,Cetirizine,6,534,106.8,534
+ORD1991,Mumbai,Fever,Dolo 650,1,97,19.4,97
+ORD1681,Chennai,Calcium,Shelcal,8,1552,310.4,1552
+ORD3045,Bengaluru,Fever,Dolo 650,5,545,109.0,545
+ORD2762,Chennai,Allergy,Cetirizine,5,800,160.0,800
+ORD2475,Hyderabad,Antibiotic,Azithral 500,7,168,33.6,168
+ORD2377,Mumbai,Diabetes,Metformin,10,1610,322.0,1610
+ORD1179,Kolkata,Cholesterol,Atorva,10,810,162.0,810
+ORD1458,Hyderabad,Acidity,Pan 40,10,1630,326.0,1630
+ORD2619,Ahmedabad,Calcium,Shelcal,6,276,55.2,276
+ORD3083,Bengaluru,Fever,Dolo 650,2,184,36.8,184
+ORD2449,Kolkata,Cholesterol,Atorva,7,308,61.6,308
+ORD2770,Ahmedabad,Diabetes,Metformin,4,580,116.0,580
+ORD1942,Jaipur,Diabetes,Metformin,6,1140,228.0,1140
+ORD2379,Bengaluru,Acidity,Pan 40,8,240,48.0,240
+ORD2149,Hyderabad,Antibiotic,Azithral 500,4,716,143.2,716
+ORD1031,Chennai,Acidity,Pan 40,2,54,10.8,54
+ORD1596,Delhi,Calcium,Shelcal,1,140,28.0,140
+ORD1074,Kolkata,Cardiac,Ecosprin,1,66,13.2,66
+ORD1836,Mumbai,Calcium,Shelcal,7,994,198.8,994
+ORD3030,Delhi,Antibiotic,Azithral 500,5,915,183.0,915
+ORD1537,Kolkata,Calcium,Shelcal,3,324,64.8,324
+ORD3088,Mumbai,Antibiotic,Azithral 500,2,52,10.4,52
+ORD2362,Bengaluru,Cardiac,Ecosprin,5,400,80.0,400
+ORD2504,Mumbai,Acidity,Pan 40,8,240,48.0,240
+ORD2553,Chennai,Diabetes,Metformin,6,900,180.0,900
+ORD3090,Bengaluru,Cholesterol,Atorva,4,680,136.0,680
+ORD2692,Hyderabad,Acidity,Pan 40,10,600,120.0,600
+ORD2233,Mumbai,Calcium,Shelcal,3,471,94.2,471
+ORD2447,Mumbai,Calcium,Shelcal,6,354,70.8,354
+ORD1918,Jaipur,Fever,Dolo 650,3,75,15.0,75
+ORD1390,Mumbai,Cardiac,Ecosprin,3,573,114.60000000000001,573
+ORD2869,Bengaluru,Fever,Dolo 650,9,1125,225.0,1125
+ORD2741,Jaipur,Fever,Dolo 650,7,966,193.2,966
+ORD2465,Bengaluru,Diabetes,Metformin,9,1080,216.0,1080
+ORD2282,Kolkata,Calcium,Shelcal,7,448,89.6,448
+ORD1699,Chennai,Cholesterol,Atorva,9,936,187.2,936
+ORD2606,Kolkata,Cholesterol,Atorva,1,30,6.0,30
+ORD1558,Hyderabad,Acidity,Pan 40,3,336,67.2,336
+ORD1042,Bengaluru,Cardiac,Ecosprin,2,204,40.8,204
+ORD2344,Bengaluru,Cholesterol,Atorva,4,132,26.4,132
+ORD2726,Bengaluru,Cholesterol,Atorva,6,1158,231.6,1158
+ORD2588,Kolkata,Antibiotic,Azithral 500,5,855,171.0,855
+ORD3080,Delhi,Cholesterol,Atorva,9,1773,354.6,1773
+ORD2009,Delhi,Fever,Dolo 650,6,1158,231.6,1158
+ORD1714,Delhi,Cardiac,Ecosprin,4,180,36.0,180
+ORD1683,Hyderabad,Antibiotic,Azithral 500,10,1520,304.0,1520
+ORD1668,Bengaluru,Cardiac,Ecosprin,9,405,81.0,405
+ORD2538,Kolkata,Acidity,Pan 40,8,1008,201.6,1008
+ORD1114,Pune,Cardiac,Ecosprin,9,1125,225.0,1125
+ORD1021,Ahmedabad,Cardiac,Ecosprin,10,1990,398.0,1990
+ORD2211,Pune,Antibiotic,Azithral 500,4,208,41.6,208
+ORD1759,Kolkata,Calcium,Shelcal,6,342,68.4,342
+ORD2563,Delhi,Cholesterol,Atorva,4,668,133.6,668
+ORD2092,Delhi,Cholesterol,Atorva,2,260,52.0,260
+ORD2067,Delhi,Fever,Dolo 650,1,133,26.6,133
+ORD1275,Jaipur,Allergy,Cetirizine,3,525,105.0,525
+ORD2179,Chennai,Diabetes,Metformin,9,1026,205.2,1026
+ORD1026,Delhi,Allergy,Cetirizine,3,471,94.2,471
+ORD3039,Bengaluru,Fever,Dolo 650,8,928,185.6,928
+ORD2853,Mumbai,Calcium,Shelcal,7,245,49.0,245
+ORD2942,Hyderabad,Acidity,Pan 40,2,240,48.0,240
+ORD1056,Chennai,Diabetes,Metformin,10,800,160.0,800
+ORD2258,Kolkata,Cholesterol,Atorva,10,1630,326.0,1630
+ORD1054,Jaipur,Cardiac,Ecosprin,1,21,4.2,21
+ORD2528,Kolkata,Fever,Dolo 650,9,1332,266.4,1332
+ORD1831,Bengaluru,Cholesterol,Atorva,5,310,62.0,310
+ORD2516,Pune,Cardiac,Ecosprin,8,176,35.2,176
+ORD2745,Jaipur,Antibiotic,Azithral 500,2,296,59.2,296
+ORD1642,Bengaluru,Fever,Dolo 650,10,610,122.0,610
+ORD1167,Delhi,Cardiac,Ecosprin,9,981,196.2,981
+ORD1102,Hyderabad,Antibiotic,Azithral 500,3,522,104.4,522
+ORD1281,Mumbai,Allergy,Cetirizine,2,206,41.2,206
+ORD2190,Pune,Allergy,Cetirizine,8,1200,240.0,1200
+ORD1338,Bengaluru,Diabetes,Metformin,6,468,93.6,468
+ORD1884,Bengaluru,Calcium,Shelcal,8,608,121.6,608
+ORD1252,Delhi,Acidity,Pan 40,6,1122,224.4,1122
+ORD1389,Pune,Cholesterol,Atorva,4,124,24.8,124
+ORD1507,Chennai,Cholesterol,Atorva,7,1309,261.8,1309
+ORD1476,Bengaluru,Allergy,Cetirizine,9,540,108.0,540
+ORD1963,Kolkata,Allergy,Cetirizine,6,606,121.2,606
+ORD1886,Chennai,Allergy,Cetirizine,10,410,82.0,410
+ORD1588,Bengaluru,Calcium,Shelcal,4,536,107.2,536
+ORD2759,Kolkata,Cholesterol,Atorva,1,84,16.8,84
+ORD1982,Bengaluru,Antibiotic,Azithral 500,9,1485,297.0,1485
+ORD1896,Mumbai,Diabetes,Metformin,1,164,32.8,164
+ORD2054,Hyderabad,Calcium,Shelcal,5,185,37.0,185
+ORD3010,Delhi,Fever,Dolo 650,1,160,32.0,160
+ORD2032,Hyderabad,Calcium,Shelcal,1,95,19.0,95
+ORD1096,Ahmedabad,Cardiac,Ecosprin,2,264,52.8,264
+ORD1732,Kolkata,Allergy,Cetirizine,6,696,139.2,696
+ORD2178,Mumbai,Calcium,Shelcal,6,258,51.6,258
+ORD1071,Ahmedabad,Diabetes,Metformin,4,208,41.6,208
+ORD2360,Kolkata,Fever,Dolo 650,2,308,61.6,308
+ORD1162,Mumbai,Diabetes,Metformin,7,959,191.8,959
+ORD1246,Bengaluru,Cholesterol,Atorva,3,372,74.39999999999999,372
+ORD2738,Pune,Acidity,Pan 40,7,931,186.20000000000002,931
+ORD2349,Delhi,Cardiac,Ecosprin,1,155,31.0,155
+ORD1204,Bengaluru,Cholesterol,Atorva,1,172,34.4,172
+ORD2640,Hyderabad,Diabetes,Metformin,6,1128,225.6,1128
+ORD2990,Chennai,Allergy,Cetirizine,2,386,77.2,386
+ORD2518,Chennai,Calcium,Shelcal,2,238,47.6,238
+ORD1335,Bengaluru,Acidity,Pan 40,10,1580,316.0,1580
+ORD1852,Chennai,Acidity,Pan 40,6,1020,204.0,1020
+ORD2719,Hyderabad,Diabetes,Metformin,5,390,78.0,390
+ORD2080,Mumbai,Allergy,Cetirizine,5,805,161.0,805
+ORD1711,Mumbai,Acidity,Pan 40,10,1090,218.0,1090
+ORD2147,Pune,Allergy,Cetirizine,3,471,94.2,471
+ORD1522,Bengaluru,Calcium,Shelcal,1,156,31.2,156
+ORD1472,Chennai,Acidity,Pan 40,3,504,100.8,504
+ORD1375,Bengaluru,Allergy,Cetirizine,4,532,106.4,532
+ORD1145,Delhi,Acidity,Pan 40,6,888,177.6,888
+ORD1613,Delhi,Antibiotic,Azithral 500,4,528,105.6,528
+ORD1985,Hyderabad,Acidity,Pan 40,10,400,80.0,400
+ORD2057,Kolkata,Diabetes,Metformin,1,97,19.4,97
+ORD1505,Bengaluru,Diabetes,Metformin,3,405,81.0,405
+ORD3060,Mumbai,Acidity,Pan 40,7,518,103.6,518
+ORD2048,Chennai,Fever,Dolo 650,8,880,176.0,880
+ORD1573,Mumbai,Cholesterol,Atorva,3,354,70.8,354
+ORD2506,Hyderabad,Allergy,Cetirizine,7,1015,203.0,1015
+ORD2585,Delhi,Fever,Dolo 650,9,1710,342.0,1710
+ORD1615,Hyderabad,Acidity,Pan 40,8,1064,212.8,1064
+ORD1060,Delhi,Antibiotic,Azithral 500,1,43,8.6,43
+ORD1226,Chennai,Acidity,Pan 40,8,912,182.4,912
+ORD1172,Pune,Allergy,Cetirizine,9,1593,318.6,1593
+ORD2939,Chennai,Calcium,Shelcal,6,882,176.4,882
+ORD2769,Bengaluru,Cardiac,Ecosprin,4,684,136.8,684
+ORD2855,Kolkata,Cholesterol,Atorva,9,675,135.0,675
+ORD2260,Mumbai,Calcium,Shelcal,8,784,156.8,784
+ORD2896,Mumbai,Antibiotic,Azithral 500,2,68,13.6,68
+ORD2525,Jaipur,Fever,Dolo 650,7,189,37.8,189
+ORD2056,Ahmedabad,Allergy,Cetirizine,5,735,147.0,735
+ORD1878,Pune,Antibiotic,Azithral 500,6,588,117.6,588
+ORD1288,Hyderabad,Acidity,Pan 40,5,575,115.0,575
+ORD1274,Hyderabad,Allergy,Cetirizine,6,450,90.0,450
+ORD2699,Chennai,Diabetes,Metformin,7,287,57.4,287
+ORD1693,Chennai,Acidity,Pan 40,1,77,15.4,77
+ORD3023,Hyderabad,Antibiotic,Azithral 500,10,1700,340.0,1700
+ORD2002,Pune,Calcium,Shelcal,2,136,27.2,136
+ORD1934,Kolkata,Diabetes,Metformin,1,107,21.4,107
+ORD1610,Kolkata,Antibiotic,Azithral 500,8,1040,208.0,1040
+ORD1273,Mumbai,Acidity,Pan 40,4,228,45.6,228
+ORD2758,Mumbai,Antibiotic,Azithral 500,9,1764,352.8,1764
+ORD1151,Delhi,Acidity,Pan 40,8,952,190.4,952
+ORD2952,Delhi,Acidity,Pan 40,3,375,75.0,375
+ORD2246,Pune,Antibiotic,Azithral 500,2,366,73.2,366
+ORD1828,Hyderabad,Allergy,Cetirizine,1,180,36.0,180
+ORD2889,Pune,Allergy,Cetirizine,7,1351,270.2,1351
+ORD1630,Mumbai,Fever,Dolo 650,2,196,39.2,196
+ORD1058,Kolkata,Allergy,Cetirizine,9,999,199.8,999
+ORD2919,Ahmedabad,Calcium,Shelcal,7,588,117.6,588
+ORD1756,Bengaluru,Allergy,Cetirizine,6,1002,200.4,1002
+ORD1016,Bengaluru,Diabetes,Metformin,1,85,17.0,85
+ORD2429,Hyderabad,Antibiotic,Azithral 500,4,684,136.8,684
+ORD1062,Hyderabad,Fever,Dolo 650,2,352,70.4,352
+ORD2031,Bengaluru,Diabetes,Metformin,5,670,134.0,670
+ORD1680,Bengaluru,Antibiotic,Azithral 500,9,1539,307.8,1539
+ORD2617,Bengaluru,Diabetes,Metformin,6,576,115.2,576
+ORD1509,Delhi,Allergy,Cetirizine,2,118,23.6,118
+ORD2900,Hyderabad,Calcium,Shelcal,10,500,100.0,500
+ORD1315,Bengaluru,Cardiac,Ecosprin,5,185,37.0,185
+ORD1425,Bengaluru,Diabetes,Metformin,1,188,37.6,188
+ORD2177,Delhi,Calcium,Shelcal,4,376,75.2,376
+ORD1540,Bengaluru,Allergy,Cetirizine,7,1064,212.8,1064
+ORD2218,Bengaluru,Acidity,Pan 40,9,387,77.4,387
+ORD2439,Bengaluru,Antibiotic,Azithral 500,1,185,37.0,185
+ORD2129,Pune,Fever,Dolo 650,4,772,154.4,772
+ORD2986,Pune,Fever,Dolo 650,10,1530,306.0,1530
+ORD1017,Jaipur,Allergy,Cetirizine,2,330,66.0,330
+ORD1966,Hyderabad,Cholesterol,Atorva,10,1480,296.0,1480
+ORD2464,Bengaluru,Fever,Dolo 650,9,1008,201.6,1008
+ORD2023,Bengaluru,Antibiotic,Azithral 500,1,169,33.8,169
+ORD1444,Jaipur,Fever,Dolo 650,7,1344,268.8,1344
+ORD1977,Chennai,Acidity,Pan 40,8,1424,284.8,1424
+ORD1773,Hyderabad,Cholesterol,Atorva,2,400,80.0,400
+ORD2050,Kolkata,Diabetes,Metformin,3,327,65.4,327
+ORD2891,Mumbai,Cholesterol,Atorva,6,312,62.4,312
+ORD3040,Mumbai,Acidity,Pan 40,7,651,130.2,651
+ORD2163,Kolkata,Allergy,Cetirizine,5,460,92.0,460
+ORD2825,Kolkata,Antibiotic,Azithral 500,5,870,174.0,870
+ORD1502,Jaipur,Cardiac,Ecosprin,10,1900,380.0,1900
+ORD1769,Hyderabad,Cholesterol,Atorva,2,72,14.4,72
+ORD3005,Bengaluru,Cardiac,Ecosprin,10,490,98.0,490
+ORD2298,Ahmedabad,Allergy,Cetirizine,2,400,80.0,400
+ORD1408,Ahmedabad,Allergy,Cetirizine,9,1089,217.8,1089
+ORD2196,Bengaluru,Acidity,Pan 40,7,574,114.8,574
+ORD2476,Mumbai,Calcium,Shelcal,3,93,18.6,93
+ORD2703,Ahmedabad,Fever,Dolo 650,6,1158,231.6,1158
+ORD1556,Hyderabad,Allergy,Cetirizine,8,680,136.0,680
+ORD1945,Kolkata,Diabetes,Metformin,5,650,130.0,650
+ORD2328,Mumbai,Fever,Dolo 650,2,224,44.8,224
+ORD2695,Bengaluru,Allergy,Cetirizine,10,1020,204.0,1020
+ORD2757,Mumbai,Cholesterol,Atorva,2,384,76.8,384
+ORD1753,Jaipur,Calcium,Shelcal,1,35,7.0,35
+ORD1839,Kolkata,Cholesterol,Atorva,6,654,130.8,654
+ORD2991,Kolkata,Calcium,Shelcal,9,900,180.0,900
+ORD2148,Jaipur,Allergy,Cetirizine,2,256,51.2,256
+ORD2339,Pune,Antibiotic,Azithral 500,6,906,181.2,906
+ORD2391,Delhi,Allergy,Cetirizine,8,1144,228.8,1144
+ORD1479,Hyderabad,Cardiac,Ecosprin,2,400,80.0,400
+ORD2292,Bengaluru,Cholesterol,Atorva,10,2000,400.0,2000
+ORD2444,Kolkata,Fever,Dolo 650,4,260,52.0,260
+ORD1930,Pune,Acidity,Pan 40,5,745,149.0,745
+ORD2679,Bengaluru,Calcium,Shelcal,6,174,34.8,174
+ORD1409,Ahmedabad,Fever,Dolo 650,8,528,105.6,528
+ORD1654,Bengaluru,Antibiotic,Azithral 500,10,1050,210.0,1050
+ORD2856,Chennai,Antibiotic,Azithral 500,9,1413,282.6,1413
+ORD2602,Ahmedabad,Fever,Dolo 650,3,378,75.6,378
+ORD2701,Bengaluru,Allergy,Cetirizine,9,594,118.8,594
+ORD1484,Delhi,Antibiotic,Azithral 500,3,294,58.8,294
+ORD1797,Pune,Antibiotic,Azithral 500,8,784,156.8,784
+ORD1973,Jaipur,Antibiotic,Azithral 500,8,360,72.0,360
+ORD1672,Hyderabad,Fever,Dolo 650,2,160,32.0,160
+ORD1247,Mumbai,Antibiotic,Azithral 500,9,1800,360.0,1800
+ORD1811,Chennai,Allergy,Cetirizine,6,138,27.6,138
+ORD2653,Bengaluru,Allergy,Cetirizine,1,73,14.6,73
+ORD2214,Kolkata,Cardiac,Ecosprin,10,700,140.0,700
+ORD2498,Hyderabad,Acidity,Pan 40,4,496,99.2,496
+ORD2818,Hyderabad,Calcium,Shelcal,5,350,70.0,350
+ORD2410,Bengaluru,Antibiotic,Azithral 500,1,71,14.2,71
+ORD1968,Kolkata,Fever,Dolo 650,7,553,110.6,553
+ORD2440,Ahmedabad,Cardiac,Ecosprin,9,1251,250.2,1251
+ORD1295,Delhi,Acidity,Pan 40,9,774,154.8,774
+ORD1947,Kolkata,Allergy,Cetirizine,5,670,134.0,670
+ORD1694,Hyderabad,Cholesterol,Atorva,8,1216,243.2,1216
+ORD2357,Bengaluru,Calcium,Shelcal,5,325,65.0,325
+ORD1685,Chennai,Diabetes,Metformin,10,1250,250.0,1250
+ORD2096,Bengaluru,Allergy,Cetirizine,7,777,155.4,777
+ORD1406,Jaipur,Cardiac,Ecosprin,9,1143,228.6,1143
+ORD2697,Delhi,Antibiotic,Azithral 500,10,1460,292.0,1460
+ORD2839,Mumbai,Cardiac,Ecosprin,4,672,134.4,672
+ORD1909,Delhi,Cholesterol,Atorva,5,625,125.0,625
+ORD1084,Kolkata,Antibiotic,Azithral 500,2,304,60.8,304
+ORD2643,Kolkata,Cardiac,Ecosprin,5,850,170.0,850
+ORD1492,Chennai,Allergy,Cetirizine,8,560,112.0,560
+ORD1803,Delhi,Allergy,Cetirizine,3,516,103.2,516
+ORD2044,Jaipur,Diabetes,Metformin,3,450,90.0,450
+ORD3027,Kolkata,Cholesterol,Atorva,5,425,85.0,425
+ORD2457,Bengaluru,Cardiac,Ecosprin,4,708,141.6,708
+ORD1092,Chennai,Allergy,Cetirizine,7,1015,203.0,1015
+ORD1240,Hyderabad,Acidity,Pan 40,2,312,62.4,312
+ORD2483,Kolkata,Calcium,Shelcal,9,1323,264.6,1323
+ORD2577,Mumbai,Fever,Dolo 650,5,185,37.0,185
+ORD1146,Mumbai,Diabetes,Metformin,1,181,36.2,181
+ORD1160,Mumbai,Cholesterol,Atorva,5,805,161.0,805
+ORD1091,Hyderabad,Cardiac,Ecosprin,4,152,30.4,152
+ORD1439,Mumbai,Cardiac,Ecosprin,4,384,76.8,384
+ORD2576,Delhi,Fever,Dolo 650,10,1470,294.0,1470
+ORD2925,Bengaluru,Calcium,Shelcal,9,1305,261.0,1305
+ORD1780,Bengaluru,Fever,Dolo 650,3,564,112.8,564
+ORD1465,Jaipur,Acidity,Pan 40,7,259,51.8,259
+ORD1832,Chennai,Cholesterol,Atorva,1,70,14.0,70
+ORD2041,Delhi,Allergy,Cetirizine,6,672,134.4,672
+ORD2922,Kolkata,Antibiotic,Azithral 500,8,984,196.8,984
+ORD2788,Chennai,Antibiotic,Azithral 500,4,380,76.0,380
+ORD2324,Chennai,Diabetes,Metformin,3,132,26.4,132
+ORD2522,Kolkata,Acidity,Pan 40,10,400,80.0,400
+ORD2971,Mumbai,Allergy,Cetirizine,6,384,76.8,384
+ORD2263,Jaipur,Cardiac,Ecosprin,7,714,142.8,714
+ORD1037,Mumbai,Antibiotic,Azithral 500,4,784,156.8,784
+ORD1336,Ahmedabad,Cholesterol,Atorva,7,1099,219.8,1099
+ORD2714,Hyderabad,Acidity,Pan 40,8,184,36.8,184
+ORD1907,Delhi,Fever,Dolo 650,7,721,144.2,721
+ORD2721,Pune,Diabetes,Metformin,1,128,25.6,128
+ORD2803,Jaipur,Fever,Dolo 650,1,127,25.4,127
+ORD1392,Hyderabad,Antibiotic,Azithral 500,7,560,112.0,560
+ORD1043,Bengaluru,Acidity,Pan 40,7,728,145.6,728
+ORD2580,Bengaluru,Allergy,Cetirizine,10,330,66.0,330
+ORD3001,Hyderabad,Cardiac,Ecosprin,7,336,67.2,336
+ORD1538,Ahmedabad,Cholesterol,Atorva,7,364,72.8,364
+ORD1851,Jaipur,Acidity,Pan 40,4,144,28.8,144
+ORD2160,Jaipur,Cholesterol,Atorva,10,1370,274.0,1370
+ORD1313,Hyderabad,Calcium,Shelcal,4,432,86.4,432
+ORD2205,Chennai,Diabetes,Metformin,6,186,37.2,186
+ORD1473,Kolkata,Antibiotic,Azithral 500,5,125,25.0,125
+ORD2157,Ahmedabad,Acidity,Pan 40,5,665,133.0,665
+ORD2974,Delhi,Diabetes,Metformin,5,980,196.0,980
+ORD3053,Bengaluru,Antibiotic,Azithral 500,3,246,49.2,246
+ORD1025,Bengaluru,Cholesterol,Atorva,10,1120,224.0,1120
+ORD2771,Kolkata,Acidity,Pan 40,2,226,45.2,226
+ORD2746,Mumbai,Antibiotic,Azithral 500,6,312,62.4,312
+ORD2877,Mumbai,Calcium,Shelcal,9,1485,297.0,1485
+ORD1082,Ahmedabad,Allergy,Cetirizine,1,158,31.6,158
+ORD1039,Bengaluru,Calcium,Shelcal,8,1584,316.8,1584
+ORD2135,Kolkata,Calcium,Shelcal,1,100,20.0,100
+ORD1332,Kolkata,Acidity,Pan 40,1,35,7.0,35
+ORD2027,Bengaluru,Allergy,Cetirizine,8,184,36.8,184
+ORD1897,Bengaluru,Calcium,Shelcal,8,824,164.8,824
+ORD2716,Ahmedabad,Cholesterol,Atorva,1,68,13.6,68
+ORD2963,Mumbai,Antibiotic,Azithral 500,7,147,29.4,147
+ORD1027,Mumbai,Acidity,Pan 40,9,1305,261.0,1305
+ORD1579,Kolkata,Acidity,Pan 40,3,132,26.400000000000002,132
+ORD2286,Kolkata,Fever,Dolo 650,4,160,32.0,160
+ORD2605,Chennai,Allergy,Cetirizine,2,210,42.0,210
+ORD1742,Kolkata,Fever,Dolo 650,5,835,167.0,835
+ORD2595,Mumbai,Antibiotic,Azithral 500,7,1239,247.8,1239
+ORD1302,Mumbai,Diabetes,Metformin,5,235,47.0,235
+ORD1061,Chennai,Acidity,Pan 40,3,504,100.8,504
+ORD2015,Chennai,Cardiac,Ecosprin,1,122,24.4,122
+ORD2848,Hyderabad,Acidity,Pan 40,10,330,66.0,330
+ORD1653,Delhi,Fever,Dolo 650,3,354,70.8,354
+ORD1532,Delhi,Antibiotic,Azithral 500,10,1700,340.0,1700
+ORD2215,Delhi,Diabetes,Metformin,5,560,112.0,560
+ORD2236,Kolkata,Allergy,Cetirizine,4,568,113.6,568
+ORD1429,Ahmedabad,Diabetes,Metformin,6,534,106.8,534
+ORD1149,Kolkata,Allergy,Cetirizine,4,396,79.2,396
+ORD2792,Jaipur,Diabetes,Metformin,3,177,35.4,177
+ORD2865,Delhi,Calcium,Shelcal,10,670,134.0,670
+ORD1616,Hyderabad,Acidity,Pan 40,10,610,122.0,610
+ORD2596,Mumbai,Allergy,Cetirizine,8,1488,297.6,1488
+ORD1310,Mumbai,Cardiac,Ecosprin,9,1467,293.4,1467
+ORD2536,Mumbai,Acidity,Pan 40,7,714,142.8,714
+ORD2108,Chennai,Cholesterol,Atorva,9,612,122.4,612
+ORD2826,Delhi,Calcium,Shelcal,4,220,44.0,220
+ORD2941,Kolkata,Diabetes,Metformin,10,920,184.0,920
+ORD1792,Pune,Antibiotic,Azithral 500,7,483,96.6,483
+ORD1824,Hyderabad,Cardiac,Ecosprin,9,261,52.2,261
+ORD2637,Hyderabad,Diabetes,Metformin,8,856,171.2,856
+ORD1232,Kolkata,Diabetes,Metformin,3,105,21.0,105
+ORD1514,Delhi,Calcium,Shelcal,4,200,40.0,200
+ORD1513,Bengaluru,Cardiac,Ecosprin,5,315,63.0,315
+ORD3075,Hyderabad,Antibiotic,Azithral 500,5,760,152.0,760
+ORD1670,Hyderabad,Acidity,Pan 40,5,225,45.0,225
+ORD2213,Pune,Allergy,Cetirizine,7,1204,240.8,1204
+ORD2419,Kolkata,Acidity,Pan 40,2,214,42.8,214
+ORD1141,Delhi,Acidity,Pan 40,5,520,104.0,520
+ORD1394,Mumbai,Cholesterol,Atorva,1,140,28.0,140
+ORD1748,Bengaluru,Antibiotic,Azithral 500,7,217,43.4,217
+ORD1242,Bengaluru,Cardiac,Ecosprin,5,835,167.0,835
+ORD2755,Chennai,Fever,Dolo 650,10,1560,312.0,1560
+ORD3037,Mumbai,Acidity,Pan 40,8,1168,233.60000000000002,1168
+ORD1257,Hyderabad,Diabetes,Metformin,10,1960,392.0,1960
+ORD2427,Pune,Cardiac,Ecosprin,8,896,179.2,896
+ORD2380,Bengaluru,Calcium,Shelcal,7,553,110.6,553
+ORD1619,Ahmedabad,Cardiac,Ecosprin,10,1080,216.0,1080
+ORD1994,Delhi,Cholesterol,Atorva,10,1180,236.0,1180
+ORD2499,Ahmedabad,Antibiotic,Azithral 500,1,164,32.8,164
+ORD2472,Chennai,Allergy,Cetirizine,4,760,152.0,760
+ORD3073,Delhi,Cholesterol,Atorva,9,1593,318.6,1593
+ORD2572,Delhi,Acidity,Pan 40,5,480,96.0,480
+ORD1134,Ahmedabad,Cholesterol,Atorva,2,204,40.8,204
+ORD1048,Kolkata,Fever,Dolo 650,3,378,75.6,378
+ORD1571,Jaipur,Fever,Dolo 650,6,162,32.4,162
+ORD2511,Kolkata,Antibiotic,Azithral 500,1,174,34.8,174
+ORD1829,Bengaluru,Cardiac,Ecosprin,10,550,110.0,550
+ORD1407,Kolkata,Cholesterol,Atorva,7,994,198.8,994
+ORD1253,Pune,Cholesterol,Atorva,6,1050,210.0,1050
+ORD1895,Bengaluru,Antibiotic,Azithral 500,8,592,118.4,592
+ORD2597,Chennai,Antibiotic,Azithral 500,5,105,21.0,105
+ORD2841,Hyderabad,Fever,Dolo 650,4,168,33.6,168
+ORD1629,Chennai,Calcium,Shelcal,9,414,82.8,414
+ORD2220,Hyderabad,Diabetes,Metformin,7,994,198.8,994
+ORD1569,Mumbai,Fever,Dolo 650,5,340,68.0,340
+ORD2452,Hyderabad,Cholesterol,Atorva,1,64,12.8,64
+ORD2874,Hyderabad,Cardiac,Ecosprin,7,476,95.2,476
+ORD2931,Pune,Calcium,Shelcal,3,69,13.8,69
+ORD2026,Bengaluru,Acidity,Pan 40,8,1232,246.4,1232
+ORD1943,Kolkata,Calcium,Shelcal,4,464,92.8,464
+ORD2926,Chennai,Cardiac,Ecosprin,8,592,118.4,592
+ORD2242,Hyderabad,Acidity,Pan 40,8,1384,276.8,1384
+ORD2195,Delhi,Antibiotic,Azithral 500,2,238,47.6,238
+ORD2000,Delhi,Diabetes,Metformin,2,72,14.4,72
+ORD2210,Chennai,Cholesterol,Atorva,8,840,168.0,840
+ORD2398,Bengaluru,Acidity,Pan 40,2,284,56.8,284
+ORD2470,Mumbai,Antibiotic,Azithral 500,8,864,172.8,864
+ORD2725,Mumbai,Antibiotic,Azithral 500,7,280,56.0,280
+ORD1843,Bengaluru,Antibiotic,Azithral 500,3,255,51.0,255
+ORD1286,Ahmedabad,Diabetes,Metformin,8,464,92.8,464
+ORD1809,Kolkata,Fever,Dolo 650,1,136,27.2,136
+ORD2717,Bengaluru,Antibiotic,Azithral 500,9,909,181.8,909
+ORD2203,Bengaluru,Allergy,Cetirizine,1,177,35.4,177
+ORD2223,Kolkata,Acidity,Pan 40,7,770,154.0,770
+ORD1935,Chennai,Diabetes,Metformin,9,432,86.4,432
+ORD3099,Ahmedabad,Antibiotic,Azithral 500,8,648,129.6,648
+ORD2010,Delhi,Fever,Dolo 650,5,270,54.0,270
+ORD2534,Bengaluru,Acidity,Pan 40,5,745,149.0,745
+ORD2460,Ahmedabad,Diabetes,Metformin,3,87,17.4,87
+ORD3022,Bengaluru,Fever,Dolo 650,5,360,72.0,360
+ORD1001,Mumbai,Allergy,Cetirizine,8,1064,212.8,1064
+ORD1211,Bengaluru,Cardiac,Ecosprin,9,225,45.0,225
+ORD1837,Delhi,Cholesterol,Atorva,8,488,97.6,488
+ORD1598,Kolkata,Cholesterol,Atorva,2,292,58.4,292
+ORD1702,Pune,Allergy,Cetirizine,5,905,181.0,905
+ORD2008,Hyderabad,Calcium,Shelcal,7,616,123.2,616
+ORD2657,Mumbai,Calcium,Shelcal,4,692,138.4,692
+ORD2012,Mumbai,Cardiac,Ecosprin,9,1404,280.8,1404
+ORD2169,Pune,Antibiotic,Azithral 500,4,708,141.6,708
+ORD1554,Bengaluru,Antibiotic,Azithral 500,3,312,62.4,312
+ORD1150,Kolkata,Fever,Dolo 650,1,178,35.6,178
+ORD2291,Ahmedabad,Antibiotic,Azithral 500,8,664,132.8,664
+ORD2678,Hyderabad,Acidity,Pan 40,4,180,36.0,180
+ORD2880,Mumbai,Cholesterol,Atorva,4,736,147.2,736
+ORD3077,Hyderabad,Cardiac,Ecosprin,6,780,156.0,780
+ORD1372,Kolkata,Diabetes,Metformin,6,294,58.8,294
+ORD1304,Chennai,Calcium,Shelcal,3,189,37.8,189
+ORD1656,Jaipur,Fever,Dolo 650,9,387,77.4,387
+ORD2810,Hyderabad,Antibiotic,Azithral 500,5,520,104.0,520
+ORD1370,Mumbai,Cholesterol,Atorva,1,154,30.8,154
+ORD2280,Kolkata,Acidity,Pan 40,7,1351,270.2,1351
+ORD2356,Chennai,Cardiac,Ecosprin,5,575,115.0,575
+ORD2074,Mumbai,Antibiotic,Azithral 500,4,132,26.4,132
+ORD2323,Bengaluru,Fever,Dolo 650,8,968,193.6,968
+ORD2207,Kolkata,Fever,Dolo 650,3,288,57.6,288
+ORD1974,Ahmedabad,Fever,Dolo 650,1,173,34.6,173
+ORD2422,Kolkata,Diabetes,Metformin,7,434,86.80000000000001,434
+ORD1580,Bengaluru,Calcium,Shelcal,4,240,48.0,240
+ORD2495,Bengaluru,Cardiac,Ecosprin,5,850,170.0,850
+ORD2451,Pune,Acidity,Pan 40,4,764,152.8,764
+ORD2966,Delhi,Antibiotic,Azithral 500,4,748,149.6,748
+ORD2126,Ahmedabad,Cholesterol,Atorva,5,265,53.0,265
+ORD2320,Pune,Fever,Dolo 650,9,1269,253.8,1269
+ORD2387,Kolkata,Allergy,Cetirizine,1,171,34.2,171
+ORD1528,Delhi,Antibiotic,Azithral 500,10,740,148.0,740
+ORD2959,Chennai,Fever,Dolo 650,5,250,50.0,250
+ORD2226,Chennai,Allergy,Cetirizine,3,216,43.2,216
+ORD2353,Chennai,Diabetes,Metformin,2,338,67.6,338
+ORD2399,Mumbai,Fever,Dolo 650,7,924,184.8,924
+ORD1950,Bengaluru,Fever,Dolo 650,1,191,38.2,191
+ORD1088,Jaipur,Allergy,Cetirizine,7,1379,275.8,1379
+ORD1849,Chennai,Fever,Dolo 650,5,395,79.0,395
+ORD2224,Delhi,Cholesterol,Atorva,1,131,26.2,131
+ORD1606,Chennai,Diabetes,Metformin,7,882,176.4,882
+ORD2469,Bengaluru,Cardiac,Ecosprin,4,292,58.4,292
+ORD1358,Mumbai,Diabetes,Metformin,9,495,99.0,495
+ORD2018,Kolkata,Fever,Dolo 650,2,164,32.8,164
+ORD1344,Hyderabad,Cholesterol,Atorva,8,424,84.8,424
+ORD2785,Chennai,Allergy,Cetirizine,3,207,41.4,207
+ORD1662,Hyderabad,Cholesterol,Atorva,6,480,96.0,480
+ORD2673,Ahmedabad,Antibiotic,Azithral 500,4,724,144.8,724
+ORD1460,Chennai,Diabetes,Metformin,10,1270,254.0,1270
+ORD2581,Chennai,Antibiotic,Azithral 500,9,1494,298.8,1494
+ORD1258,Kolkata,Calcium,Shelcal,9,1476,295.2,1476
+ORD2138,Chennai,Antibiotic,Azithral 500,4,272,54.4,272
+ORD1019,Kolkata,Calcium,Shelcal,2,74,14.8,74
+ORD2455,Ahmedabad,Cardiac,Ecosprin,10,1550,310.0,1550
+ORD2634,Kolkata,Fever,Dolo 650,2,336,67.2,336
+ORD1387,Ahmedabad,Acidity,Pan 40,9,738,147.6,738
+ORD2929,Mumbai,Allergy,Cetirizine,5,765,153.0,765
+ORD3047,Hyderabad,Cardiac,Ecosprin,10,800,160.0,800
+ORD2093,Mumbai,Antibiotic,Azithral 500,1,97,19.4,97
+ORD1604,Ahmedabad,Cholesterol,Atorva,4,632,126.4,632
+ORD1433,Chennai,Allergy,Cetirizine,9,1395,279.0,1395
+ORD2341,Ahmedabad,Antibiotic,Azithral 500,5,145,29.0,145
+ORD1495,Delhi,Acidity,Pan 40,10,520,104.0,520
+ORD1578,Bengaluru,Fever,Dolo 650,5,320,64.0,320
+ORD2639,Ahmedabad,Fever,Dolo 650,7,609,121.8,609
+ORD2198,Kolkata,Allergy,Cetirizine,3,336,67.2,336
+ORD1132,Delhi,Fever,Dolo 650,7,994,198.8,994
+ORD1099,Hyderabad,Acidity,Pan 40,5,735,147.0,735
+ORD1936,Mumbai,Allergy,Cetirizine,10,1080,216.0,1080
+ORD2700,Mumbai,Cholesterol,Atorva,10,570,114.0,570
+ORD2361,Kolkata,Diabetes,Metformin,10,1280,256.0,1280
+ORD2230,Bengaluru,Fever,Dolo 650,6,702,140.4,702
+ORD1882,Delhi,Acidity,Pan 40,5,570,114.0,570
+ORD1964,Pune,Cardiac,Ecosprin,3,342,68.4,342
+ORD3036,Bengaluru,Cardiac,Ecosprin,7,693,138.6,693
+ORD1463,Delhi,Cardiac,Ecosprin,3,219,43.8,219
+ORD2170,Hyderabad,Cardiac,Ecosprin,1,53,10.6,53
+ORD2561,Chennai,Cholesterol,Atorva,9,1476,295.2,1476
+ORD2512,Chennai,Acidity,Pan 40,5,370,74.0,370
+ORD1817,Bengaluru,Acidity,Pan 40,5,175,35.0,175
+ORD1290,Delhi,Cholesterol,Atorva,3,279,55.8,279
+ORD1033,Hyderabad,Cardiac,Ecosprin,4,348,69.6,348
+ORD1673,Pune,Cholesterol,Atorva,3,321,64.2,321
+ORD2303,Hyderabad,Calcium,Shelcal,6,912,182.4,912
+ORD2063,Chennai,Antibiotic,Azithral 500,5,180,36.0,180
+ORD1379,Mumbai,Cholesterol,Atorva,9,711,142.2,711
+ORD1796,Pune,Cardiac,Ecosprin,4,664,132.8,664
+ORD1557,Bengaluru,Cholesterol,Atorva,9,558,111.6,558
+ORD2731,Bengaluru,Antibiotic,Azithral 500,10,1390,278.0,1390
+ORD2463,Chennai,Diabetes,Metformin,8,712,142.4,712
+ORD1649,Bengaluru,Fever,Dolo 650,8,992,198.4,992
+ORD1848,Bengaluru,Fever,Dolo 650,8,1504,300.8,1504
+ORD2517,Kolkata,Calcium,Shelcal,1,54,10.8,54
+ORD1430,Hyderabad,Acidity,Pan 40,2,58,11.6,58
+ORD1967,Delhi,Calcium,Shelcal,6,144,28.8,144
+ORD1675,Hyderabad,Diabetes,Metformin,7,1295,259.0,1295
+ORD1171,Ahmedabad,Allergy,Cetirizine,3,585,117.0,585
+ORD1254,Chennai,Allergy,Cetirizine,3,369,73.8,369
+ORD3002,Hyderabad,Cholesterol,Atorva,5,555,111.0,555
+ORD2287,Delhi,Calcium,Shelcal,2,334,66.8,334
+ORD1953,Mumbai,Diabetes,Metformin,5,825,165.0,825
+ORD2042,Delhi,Cholesterol,Atorva,5,400,80.0,400
+ORD2838,Chennai,Calcium,Shelcal,6,180,36.0,180
+ORD1941,Pune,Antibiotic,Azithral 500,5,735,147.0,735
+ORD2693,Bengaluru,Cardiac,Ecosprin,10,630,126.0,630
+ORD2222,Hyderabad,Allergy,Cetirizine,6,918,183.6,918
+ORD3087,Chennai,Acidity,Pan 40,10,1980,396.0,1980
+ORD1396,Kolkata,Cardiac,Ecosprin,4,728,145.6,728
+ORD1135,Kolkata,Calcium,Shelcal,9,297,59.4,297
+ORD1976,Delhi,Diabetes,Metformin,5,490,98.0,490
+ORD1431,Chennai,Antibiotic,Azithral 500,5,480,96.0,480
+ORD2943,Mumbai,Allergy,Cetirizine,4,384,76.8,384
+ORD1147,Bengaluru,Antibiotic,Azithral 500,6,672,134.4,672
+ORD1303,Kolkata,Fever,Dolo 650,8,840,168.0,840
+ORD1121,Jaipur,Acidity,Pan 40,2,324,64.8,324
+ORD2868,Delhi,Acidity,Pan 40,2,60,12.0,60
+ORD1169,Chennai,Calcium,Shelcal,9,828,165.6,828
+ORD1343,Pune,Allergy,Cetirizine,4,388,77.6,388
+ORD1186,Bengaluru,Cholesterol,Atorva,5,880,176.0,880
+ORD1661,Bengaluru,Cholesterol,Atorva,4,536,107.2,536
+ORD2321,Bengaluru,Allergy,Cetirizine,8,616,123.2,616
+ORD1979,Pune,Calcium,Shelcal,5,280,56.0,280
+ORD2021,Jaipur,Cholesterol,Atorva,3,579,115.8,579
+ORD1593,Pune,Antibiotic,Azithral 500,10,680,136.0,680
+ORD2414,Jaipur,Fever,Dolo 650,7,406,81.2,406
+ORD1081,Mumbai,Cardiac,Ecosprin,10,1670,334.0,1670
+ORD1040,Delhi,Fever,Dolo 650,8,256,51.2,256
+ORD1591,Bengaluru,Cardiac,Ecosprin,2,208,41.6,208
+ORD3049,Ahmedabad,Cholesterol,Atorva,7,945,189.0,945
+ORD2201,Bengaluru,Cardiac,Ecosprin,8,1512,302.4,1512
+ORD1928,Kolkata,Cholesterol,Atorva,6,234,46.8,234
+ORD2141,Bengaluru,Cholesterol,Atorva,3,510,102.0,510
+ORD2383,Kolkata,Allergy,Cetirizine,8,400,80.0,400
+ORD2295,Bengaluru,Cholesterol,Atorva,9,1044,208.79999999999998,1044
+ORD3096,Delhi,Calcium,Shelcal,2,92,18.4,92
+ORD2013,Bengaluru,Allergy,Cetirizine,10,1410,282.0,1410
+ORD2423,Chennai,Allergy,Cetirizine,8,752,150.4,752
+ORD1144,Mumbai,Antibiotic,Azithral 500,4,704,140.8,704
+ORD1045,Mumbai,Fever,Dolo 650,10,840,168.0,840
+ORD1250,Kolkata,Diabetes,Metformin,2,86,17.2,86
+ORD1244,Kolkata,Calcium,Shelcal,4,776,155.2,776
+ORD1820,Kolkata,Diabetes,Metformin,5,435,87.0,435
+ORD2482,Ahmedabad,Diabetes,Metformin,3,219,43.8,219
+ORD1192,Pune,Allergy,Cetirizine,8,376,75.2,376
+ORD2909,Hyderabad,Antibiotic,Azithral 500,2,374,74.8,374
+ORD2467,Delhi,Acidity,Pan 40,10,710,142.0,710
+ORD1611,Pune,Acidity,Pan 40,3,282,56.4,282
+ORD2687,Chennai,Cardiac,Ecosprin,8,1280,256.0,1280
+ORD2626,Jaipur,Cholesterol,Atorva,2,256,51.2,256
+ORD2690,Kolkata,Cholesterol,Atorva,1,101,20.2,101
+ORD2969,Kolkata,Cholesterol,Atorva,9,927,185.4,927
+ORD1826,Jaipur,Fever,Dolo 650,6,876,175.2,876
+ORD3054,Hyderabad,Allergy,Cetirizine,1,123,24.6,123
+ORD1715,Jaipur,Acidity,Pan 40,6,366,73.2,366
+ORD2156,Chennai,Calcium,Shelcal,7,1120,224.0,1120
+ORD2836,Mumbai,Calcium,Shelcal,5,110,22.0,110
+ORD1014,Hyderabad,Antibiotic,Azithral 500,6,534,106.8,534
+ORD2793,Chennai,Antibiotic,Azithral 500,7,1057,211.4,1057
+ORD2086,Mumbai,Cholesterol,Atorva,4,316,63.2,316
+ORD2385,Ahmedabad,Antibiotic,Azithral 500,8,1248,249.6,1248
+ORD1113,Pune,Acidity,Pan 40,3,69,13.8,69
+ORD1981,Delhi,Acidity,Pan 40,8,1568,313.6,1568
+ORD1109,Mumbai,Acidity,Pan 40,2,42,8.4,42
+ORD1834,Delhi,Cardiac,Ecosprin,4,392,78.4,392
+ORD2183,Pune,Cholesterol,Atorva,9,207,41.4,207
+ORD3058,Hyderabad,Antibiotic,Azithral 500,5,200,40.0,200
+ORD2330,Kolkata,Cholesterol,Atorva,9,216,43.2,216
+ORD2800,Hyderabad,Antibiotic,Azithral 500,8,1160,232.0,1160
+ORD1971,Kolkata,Diabetes,Metformin,5,590,118.0,590
+ORD2496,Chennai,Fever,Dolo 650,6,162,32.4,162
+ORD2435,Jaipur,Diabetes,Metformin,5,515,103.0,515
+ORD1847,Pune,Calcium,Shelcal,3,120,24.0,120
+ORD2443,Hyderabad,Cardiac,Ecosprin,10,1970,394.0,1970
+ORD2227,Bengaluru,Fever,Dolo 650,3,327,65.4,327
+ORD2256,Chennai,Fever,Dolo 650,7,483,96.6,483
+ORD2406,Ahmedabad,Acidity,Pan 40,1,58,11.6,58
+ORD3024,Ahmedabad,Cholesterol,Atorva,10,1360,272.0,1360
+ORD2322,Hyderabad,Cardiac,Ecosprin,10,1610,322.0,1610
+ORD2764,Chennai,Antibiotic,Azithral 500,7,518,103.6,518
+ORD2850,Mumbai,Acidity,Pan 40,10,230,46.0,230
+ORD2297,Bengaluru,Cholesterol,Atorva,8,816,163.2,816
+ORD1123,Kolkata,Calcium,Shelcal,1,127,25.4,127
+ORD2306,Jaipur,Diabetes,Metformin,8,432,86.4,432
+ORD1461,Bengaluru,Allergy,Cetirizine,4,720,144.0,720
+ORD2283,Bengaluru,Allergy,Cetirizine,1,51,10.2,51
+ORD1814,Delhi,Cardiac,Ecosprin,6,1098,219.6,1098
+ORD1083,Delhi,Diabetes,Metformin,6,156,31.2,156
+ORD1272,Mumbai,Cardiac,Ecosprin,4,504,100.8,504
+ORD2284,Bengaluru,Diabetes,Metformin,6,516,103.2,516
+ORD1152,Kolkata,Cardiac,Ecosprin,7,966,193.20000000000002,966
+ORD1940,Jaipur,Antibiotic,Azithral 500,6,1086,217.2,1086
+ORD3015,Hyderabad,Cholesterol,Atorva,8,656,131.2,656
+ORD2176,Chennai,Fever,Dolo 650,3,438,87.6,438
+ORD1689,Hyderabad,Calcium,Shelcal,5,680,136.0,680
+ORD1899,Chennai,Antibiotic,Azithral 500,9,540,108.0,540
+ORD2709,Chennai,Calcium,Shelcal,6,792,158.4,792
+ORD2994,Delhi,Cardiac,Ecosprin,8,1504,300.8,1504
+ORD1118,Bengaluru,Acidity,Pan 40,6,456,91.2,456
+ORD1381,Delhi,Cholesterol,Atorva,2,136,27.2,136
+ORD2336,Ahmedabad,Antibiotic,Azithral 500,7,756,151.2,756
+ORD2515,Chennai,Cardiac,Ecosprin,3,318,63.6,318
+ORD1929,Chennai,Acidity,Pan 40,7,266,53.2,266
+ORD2993,Mumbai,Acidity,Pan 40,1,36,7.2,36
+ORD1609,Mumbai,Calcium,Shelcal,8,808,161.6,808
+ORD1311,Mumbai,Calcium,Shelcal,8,560,112.0,560
+ORD3086,Pune,Allergy,Cetirizine,8,1248,249.6,1248
+ORD2851,Pune,Fever,Dolo 650,7,1239,247.8,1239
+ORD2985,Delhi,Allergy,Cetirizine,9,216,43.2,216
+ORD1692,Chennai,Fever,Dolo 650,8,1392,278.4,1392
+ORD2267,Chennai,Cholesterol,Atorva,8,488,97.6,488
+ORD1486,Chennai,Cardiac,Ecosprin,2,194,38.8,194
+ORD1009,Kolkata,Cardiac,Ecosprin,2,218,43.6,218
+ORD1574,Pune,Cholesterol,Atorva,8,1080,216.0,1080
+ORD1808,Hyderabad,Calcium,Shelcal,8,512,102.4,512
+ORD1236,Jaipur,Cardiac,Ecosprin,2,176,35.2,176
+ORD1889,Chennai,Antibiotic,Azithral 500,3,378,75.6,378
+ORD1411,Kolkata,Calcium,Shelcal,3,117,23.4,117
+ORD2088,Bengaluru,Cardiac,Ecosprin,9,1062,212.4,1062
+ORD1708,Ahmedabad,Fever,Dolo 650,9,1107,221.4,1107
+ORD1380,Hyderabad,Allergy,Cetirizine,8,400,80.0,400
+ORD2895,Mumbai,Allergy,Cetirizine,5,260,52.0,260
+ORD2270,Delhi,Fever,Dolo 650,6,372,74.4,372
+ORD1969,Bengaluru,Calcium,Shelcal,5,810,162.0,810
+ORD1747,Chennai,Acidity,Pan 40,1,117,23.4,117
+ORD2101,Kolkata,Diabetes,Metformin,2,158,31.6,158
+ORD2254,Hyderabad,Fever,Dolo 650,4,556,111.2,556
+ORD1531,Chennai,Diabetes,Metformin,10,1010,202.0,1010
+ORD1784,Delhi,Diabetes,Metformin,9,279,55.8,279
+ORD2125,Jaipur,Fever,Dolo 650,10,830,166.0,830
+ORD2393,Delhi,Acidity,Pan 40,5,375,75.0,375
+ORD1346,Bengaluru,Antibiotic,Azithral 500,5,725,145.0,725
+ORD1466,Pune,Cholesterol,Atorva,5,785,157.0,785
+ORD3021,Pune,Diabetes,Metformin,8,536,107.2,536
+ORD1101,Delhi,Antibiotic,Azithral 500,7,672,134.4,672
+ORD2527,Mumbai,Antibiotic,Azithral 500,7,1372,274.4,1372
+ORD1443,Mumbai,Fever,Dolo 650,7,1372,274.4,1372
+ORD1227,Delhi,Cholesterol,Atorva,1,180,36.0,180
+ORD2532,Mumbai,Cholesterol,Atorva,9,558,111.6,558
+ORD1955,Hyderabad,Calcium,Shelcal,9,1026,205.2,1026
+ORD2171,Bengaluru,Calcium,Shelcal,3,108,21.6,108
+ORD2186,Ahmedabad,Acidity,Pan 40,2,310,62.0,310
+ORD1751,Jaipur,Fever,Dolo 650,7,1099,219.8,1099
+ORD1570,Bengaluru,Allergy,Cetirizine,5,265,53.0,265
+ORD2711,Kolkata,Allergy,Cetirizine,6,1098,219.6,1098
+ORD2413,Hyderabad,Antibiotic,Azithral 500,2,116,23.2,116
+ORD1597,Ahmedabad,Cardiac,Ecosprin,10,440,88.0,440
+ORD2130,Pune,Antibiotic,Azithral 500,5,175,35.0,175
+ORD1428,Jaipur,Acidity,Pan 40,7,147,29.4,147
+ORD2113,Ahmedabad,Diabetes,Metformin,5,605,121.0,605
+ORD1501,Chennai,Diabetes,Metformin,8,952,190.4,952
+ORD1349,Chennai,Diabetes,Metformin,5,330,66.0,330
+ORD1125,Chennai,Cardiac,Ecosprin,10,1210,242.0,1210
+ORD2405,Chennai,Calcium,Shelcal,2,292,58.4,292
+ORD3095,Chennai,Calcium,Shelcal,8,1576,315.2,1576
+ORD2982,Bengaluru,Cardiac,Ecosprin,8,344,68.8,344
+ORD1404,Hyderabad,Antibiotic,Azithral 500,3,234,46.8,234
+ORD1674,Mumbai,Cardiac,Ecosprin,6,162,32.4,162
+ORD1607,Bengaluru,Antibiotic,Azithral 500,4,636,127.2,636
+ORD1233,Ahmedabad,Acidity,Pan 40,4,664,132.8,664
+ORD2116,Kolkata,Cardiac,Ecosprin,9,1062,212.4,1062
+ORD1015,Delhi,Cardiac,Ecosprin,1,151,30.2,151
+ORD2622,Bengaluru,Antibiotic,Azithral 500,5,410,82.0,410
+ORD2327,Mumbai,Diabetes,Metformin,1,93,18.6,93
+ORD2221,Mumbai,Antibiotic,Azithral 500,4,484,96.8,484
+ORD1671,Hyderabad,Calcium,Shelcal,6,264,52.8,264
+ORD3098,Jaipur,Acidity,Pan 40,8,840,168.0,840
+ORD2314,Chennai,Allergy,Cetirizine,6,948,189.6,948
+ORD2308,Kolkata,Diabetes,Metformin,10,1920,384.0,1920
+ORD2373,Pune,Cardiac,Ecosprin,3,96,19.2,96
+ORD1385,Bengaluru,Cardiac,Ecosprin,5,660,132.0,660
+ORD1163,Delhi,Diabetes,Metformin,8,1072,214.4,1072
+ORD1398,Mumbai,Calcium,Shelcal,9,711,142.2,711
+ORD1633,Delhi,Diabetes,Metformin,3,75,15.0,75
+ORD2594,Jaipur,Calcium,Shelcal,8,1112,222.4,1112
+ORD2071,Ahmedabad,Acidity,Pan 40,2,130,26.0,130
+ORD2787,Hyderabad,Allergy,Cetirizine,1,143,28.6,143
+ORD1561,Bengaluru,Acidity,Pan 40,8,288,57.6,288
+ORD3032,Chennai,Calcium,Shelcal,10,1520,304.0,1520
+ORD1518,Pune,Acidity,Pan 40,10,510,102.0,510
+ORD1435,Ahmedabad,Calcium,Shelcal,1,191,38.2,191
+ORD1719,Delhi,Cardiac,Ecosprin,3,474,94.8,474
+ORD2259,Delhi,Diabetes,Metformin,2,246,49.2,246
+ORD2110,Bengaluru,Allergy,Cetirizine,3,174,34.8,174
+ORD1645,Mumbai,Cholesterol,Atorva,7,413,82.6,413
+ORD2924,Bengaluru,Calcium,Shelcal,6,912,182.4,912
+ORD1487,Chennai,Cholesterol,Atorva,9,1701,340.2,1701
+ORD2428,Chennai,Diabetes,Metformin,3,69,13.8,69
+ORD1474,Hyderabad,Antibiotic,Azithral 500,5,895,179.0,895
+ORD2266,Chennai,Cholesterol,Atorva,5,745,149.0,745
+ORD2337,Jaipur,Calcium,Shelcal,5,525,105.0,525
+ORD2530,Chennai,Antibiotic,Azithral 500,1,71,14.2,71
+ORD3006,Bengaluru,Fever,Dolo 650,2,382,76.4,382
+ORD2152,Bengaluru,Diabetes,Metformin,6,864,172.8,864
+ORD2592,Kolkata,Allergy,Cetirizine,9,1017,203.4,1017
+ORD1519,Mumbai,Cardiac,Ecosprin,7,756,151.2,756
+ORD3008,Ahmedabad,Cholesterol,Atorva,2,240,47.99999999999999,240
+ORD2544,Jaipur,Calcium,Shelcal,8,1416,283.2,1416
+ORD1857,Bengaluru,Fever,Dolo 650,5,320,64.0,320
+ORD1307,Bengaluru,Acidity,Pan 40,9,945,189.0,945
+ORD2120,Chennai,Calcium,Shelcal,4,384,76.8,384
+ORD2646,Hyderabad,Antibiotic,Azithral 500,4,508,101.6,508
+ORD1340,Kolkata,Cholesterol,Atorva,3,63,12.6,63
+ORD1034,Bengaluru,Cardiac,Ecosprin,6,240,48.0,240
+ORD1925,Kolkata,Cholesterol,Atorva,10,1680,336.0,1680
+ORD1130,Pune,Acidity,Pan 40,10,990,198.0,990
+ORD2346,Mumbai,Antibiotic,Azithral 500,10,630,126.0,630
+ORD1833,Bengaluru,Cholesterol,Atorva,8,1304,260.8,1304
+ORD2798,Kolkata,Diabetes,Metformin,8,640,128.0,640
+ORD1533,Mumbai,Cardiac,Ecosprin,7,343,68.6,343
+ORD1636,Jaipur,Diabetes,Metformin,6,972,194.4,972
+ORD1337,Mumbai,Calcium,Shelcal,6,1014,202.8,1014
+ORD1383,Bengaluru,Cardiac,Ecosprin,8,576,115.2,576
+ORD2722,Bengaluru,Diabetes,Metformin,8,1448,289.6,1448
+ORD2045,Mumbai,Antibiotic,Azithral 500,9,1782,356.4,1782
+ORD1876,Mumbai,Fever,Dolo 650,1,191,38.2,191
+ORD2652,Bengaluru,Fever,Dolo 650,10,1770,354.0,1770
+ORD2411,Bengaluru,Cholesterol,Atorva,5,595,119.0,595
+ORD2601,Delhi,Allergy,Cetirizine,6,534,106.8,534
+ORD1105,Bengaluru,Cardiac,Ecosprin,2,388,77.6,388
+ORD2552,Pune,Allergy,Cetirizine,6,792,158.4,792
+ORD1197,Kolkata,Allergy,Cetirizine,5,855,171.0,855
+ORD1563,Bengaluru,Fever,Dolo 650,10,1480,296.0,1480
+ORD2569,Bengaluru,Acidity,Pan 40,2,108,21.6,108
+ORD1595,Chennai,Fever,Dolo 650,2,302,60.4,302
+ORD2742,Delhi,Cardiac,Ecosprin,3,459,91.80000000000001,459
+ORD1111,Hyderabad,Diabetes,Metformin,1,154,30.8,154
+ORD1800,Pune,Cardiac,Ecosprin,8,1080,216.0,1080
+ORD1520,Hyderabad,Fever,Dolo 650,1,103,20.599999999999998,103
+ORD3050,Bengaluru,Fever,Dolo 650,2,362,72.4,362
+ORD1621,Kolkata,Diabetes,Metformin,5,340,68.0,340
+ORD2389,Bengaluru,Acidity,Pan 40,1,22,4.4,22
+ORD1117,Mumbai,Diabetes,Metformin,4,120,24.0,120
+ORD1414,Mumbai,Cholesterol,Atorva,7,672,134.4,672
+ORD2355,Bengaluru,Diabetes,Metformin,2,286,57.2,286
+ORD1293,Hyderabad,Antibiotic,Azithral 500,3,198,39.6,198
+ORD1352,Bengaluru,Diabetes,Metformin,2,144,28.8,144
+ORD1745,Jaipur,Acidity,Pan 40,5,545,109.0,545
+ORD1663,Kolkata,Antibiotic,Azithral 500,5,930,186.0,930
+ORD1638,Mumbai,Acidity,Pan 40,9,666,133.2,666
+ORD2761,Hyderabad,Cholesterol,Atorva,5,180,36.0,180
+ORD2548,Chennai,Diabetes,Metformin,2,270,54.0,270
+ORD2053,Delhi,Antibiotic,Azithral 500,7,287,57.4,287
+ORD1441,Mumbai,Cholesterol,Atorva,7,322,64.4,322
+ORD1526,Bengaluru,Fever,Dolo 650,2,254,50.8,254
+ORD1483,Pune,Cardiac,Ecosprin,9,441,88.2,441
+ORD1560,Kolkata,Allergy,Cetirizine,9,1359,271.8,1359
+ORD2480,Chennai,Cardiac,Ecosprin,2,304,60.8,304
+ORD2473,Chennai,Allergy,Cetirizine,8,1080,216.0,1080
+ORD2584,Hyderabad,Fever,Dolo 650,1,122,24.4,122
+ORD2471,Delhi,Cholesterol,Atorva,3,198,39.6,198
+ORD2910,Mumbai,Allergy,Cetirizine,2,368,73.6,368
+ORD1359,Pune,Calcium,Shelcal,10,600,120.0,600
+ORD1731,Delhi,Fever,Dolo 650,7,784,156.8,784
+ORD2649,Chennai,Antibiotic,Azithral 500,3,180,36.0,180
+ORD1542,Delhi,Cholesterol,Atorva,2,172,34.4,172
+ORD1193,Kolkata,Calcium,Shelcal,7,875,175.0,875
+ORD2426,Delhi,Fever,Dolo 650,7,1071,214.2,1071
+ORD2415,Kolkata,Fever,Dolo 650,9,189,37.8,189
+ORD3082,Delhi,Cardiac,Ecosprin,4,184,36.8,184
+ORD1865,Mumbai,Acidity,Pan 40,2,366,73.2,366
+ORD2474,Hyderabad,Calcium,Shelcal,8,488,97.6,488
+ORD1119,Chennai,Cholesterol,Atorva,3,84,16.8,84
+ORD2257,Mumbai,Allergy,Cetirizine,3,315,63.0,315
+ORD2461,Bengaluru,Acidity,Pan 40,6,792,158.4,792
+ORD2918,Mumbai,Antibiotic,Azithral 500,3,111,22.2,111
+ORD2893,Kolkata,Calcium,Shelcal,1,135,27.0,135
+ORD1562,Bengaluru,Allergy,Cetirizine,8,416,83.2,416
+ORD1366,Pune,Fever,Dolo 650,3,390,78.0,390
+ORD1270,Mumbai,Fever,Dolo 650,5,920,184.0,920
+ORD1718,Mumbai,Antibiotic,Azithral 500,2,140,28.0,140
+ORD3061,Pune,Cholesterol,Atorva,10,880,176.0,880
+ORD2915,Bengaluru,Calcium,Shelcal,8,1544,308.8,1544
+ORD1541,Jaipur,Diabetes,Metformin,1,192,38.400000000000006,192
+ORD1911,Hyderabad,Calcium,Shelcal,2,150,30.0,150
+ORD2025,Pune,Cardiac,Ecosprin,2,272,54.4,272
+ORD2956,Chennai,Calcium,Shelcal,5,465,93.0,465
+ORD1767,Jaipur,Cardiac,Ecosprin,8,624,124.8,624
+ORD2870,Bengaluru,Antibiotic,Azithral 500,5,375,75.0,375
+ORD1243,Pune,Allergy,Cetirizine,2,136,27.2,136
+ORD1592,Bengaluru,Cholesterol,Atorva,4,704,140.8,704
+ORD2392,Jaipur,Calcium,Shelcal,6,810,162.0,810
+ORD1175,Bengaluru,Calcium,Shelcal,6,1176,235.2,1176
+ORD2299,Pune,Allergy,Cetirizine,1,171,34.2,171
+ORD1241,Bengaluru,Fever,Dolo 650,9,594,118.8,594
+ORD1341,Bengaluru,Calcium,Shelcal,2,252,50.4,252
+ORD1103,Mumbai,Acidity,Pan 40,9,504,100.8,504
+ORD1778,Kolkata,Calcium,Shelcal,4,304,60.8,304
+ORD1319,Chennai,Cholesterol,Atorva,6,498,99.6,498
+ORD1100,Bengaluru,Antibiotic,Azithral 500,3,555,111.0,555
+ORD1736,Bengaluru,Diabetes,Metformin,1,26,5.2,26
+ORD2097,Chennai,Cholesterol,Atorva,1,87,17.4,87
+ORD1804,Hyderabad,Cardiac,Ecosprin,10,1560,312.0,1560
+ORD2001,Pune,Fever,Dolo 650,9,1314,262.8,1314
+ORD1873,Kolkata,Allergy,Cetirizine,6,1176,235.2,1176
+ORD1511,Mumbai,Acidity,Pan 40,1,114,22.8,114
+ORD2713,Jaipur,Diabetes,Metformin,2,366,73.2,366
+ORD1869,Delhi,Diabetes,Metformin,7,273,54.6,273
+ORD1427,Delhi,Cholesterol,Atorva,1,83,16.6,83
+ORD2795,Jaipur,Allergy,Cetirizine,7,1036,207.2,1036
+ORD2568,Mumbai,Calcium,Shelcal,2,364,72.8,364
+ORD2127,Delhi,Fever,Dolo 650,1,193,38.6,193
+ORD1469,Chennai,Allergy,Cetirizine,6,654,130.8,654
+ORD2696,Bengaluru,Calcium,Shelcal,5,550,110.0,550
+ORD2996,Mumbai,Antibiotic,Azithral 500,2,206,41.2,206
+ORD1927,Mumbai,Antibiotic,Azithral 500,4,184,36.8,184
+ORD3042,Kolkata,Acidity,Pan 40,2,138,27.6,138
+ORD2677,Mumbai,Calcium,Shelcal,8,368,73.6,368
+ORD2614,Jaipur,Cardiac,Ecosprin,3,564,112.8,564
+ORD1452,Mumbai,Acidity,Pan 40,8,568,113.6,568
+ORD2999,Ahmedabad,Calcium,Shelcal,1,146,29.200000000000003,146
+ORD1709,Delhi,Diabetes,Metformin,10,1330,266.0,1330
+ORD2847,Jaipur,Allergy,Cetirizine,4,552,110.4,552
+ORD2167,Delhi,Cardiac,Ecosprin,1,171,34.2,171
+ORD2520,Ahmedabad,Diabetes,Metformin,7,658,131.6,658
+ORD2938,Chennai,Fever,Dolo 650,10,610,122.0,610
+ORD1424,Chennai,Fever,Dolo 650,7,952,190.4,952
+ORD2858,Bengaluru,Cardiac,Ecosprin,8,296,59.2,296
+ORD1255,Kolkata,Acidity,Pan 40,3,159,31.8,159
+ORD1877,Kolkata,Calcium,Shelcal,2,310,62.0,310
+ORD2961,Kolkata,Diabetes,Metformin,5,805,161.0,805
+ORD2796,Kolkata,Fever,Dolo 650,6,1074,214.8,1074
+ORD1727,Hyderabad,Cholesterol,Atorva,2,190,38.0,190
+ORD2972,Mumbai,Acidity,Pan 40,6,420,84.0,420
+ORD2794,Kolkata,Cardiac,Ecosprin,1,175,35.0,175
+ORD1217,Kolkata,Cholesterol,Atorva,9,378,75.6,378
+ORD2300,Kolkata,Cholesterol,Atorva,4,576,115.2,576
+ORD2899,Mumbai,Cardiac,Ecosprin,2,386,77.2,386
+ORD3034,Pune,Diabetes,Metformin,4,648,129.6,648
+ORD2514,Delhi,Acidity,Pan 40,6,1032,206.4,1032
+ORD1298,Bengaluru,Calcium,Shelcal,3,60,12.0,60
+ORD1207,Hyderabad,Fever,Dolo 650,8,1512,302.4,1512
+ORD2017,Jaipur,Cardiac,Ecosprin,3,387,77.4,387
+ORD1453,Delhi,Cholesterol,Atorva,6,396,79.2,396
+ORD1892,Hyderabad,Calcium,Shelcal,5,815,163.0,815
+ORD2274,Kolkata,Fever,Dolo 650,7,1253,250.6,1253
+ORD1108,Mumbai,Calcium,Shelcal,5,770,154.0,770
+ORD2478,Kolkata,Diabetes,Metformin,4,316,63.2,316
+ORD2728,Bengaluru,Fever,Dolo 650,3,132,26.4,132
+ORD2521,Bengaluru,Cardiac,Ecosprin,8,1368,273.6,1368
+ORD2575,Pune,Allergy,Cetirizine,9,387,77.4,387
+ORD2232,Jaipur,Calcium,Shelcal,1,192,38.4,192
+ORD2245,Hyderabad,Acidity,Pan 40,8,952,190.4,952
+ORD1577,Hyderabad,Cardiac,Ecosprin,6,372,74.4,372
+ORD2072,Mumbai,Fever,Dolo 650,4,676,135.2,676
+ORD2231,Kolkata,Diabetes,Metformin,8,200,40.0,200
+ORD1353,Ahmedabad,Calcium,Shelcal,2,160,32.0,160
+ORD1770,Chennai,Antibiotic,Azithral 500,4,760,152.0,760
+ORD2075,Delhi,Allergy,Cetirizine,4,180,36.0,180
+ORD2438,Bengaluru,Acidity,Pan 40,6,864,172.8,864
+ORD2416,Chennai,Allergy,Cetirizine,10,240,48.0,240
+ORD1239,Pune,Cholesterol,Atorva,2,278,55.6,278
+ORD2305,Bengaluru,Calcium,Shelcal,6,252,50.4,252
+ORD1314,Bengaluru,Antibiotic,Azithral 500,6,960,192.0,960
+ORD2111,Mumbai,Fever,Dolo 650,3,258,51.6,258
+ORD2079,Mumbai,Calcium,Shelcal,9,1197,239.4,1197
+ORD2124,Chennai,Acidity,Pan 40,6,276,55.2,276
+ORD1174,Mumbai,Antibiotic,Azithral 500,1,67,13.4,67
+ORD1215,Ahmedabad,Antibiotic,Azithral 500,4,372,74.4,372
+ORD1996,Delhi,Diabetes,Metformin,10,870,174.0,870
+ORD1413,Bengaluru,Antibiotic,Azithral 500,9,315,63.0,315
+ORD1568,Bengaluru,Antibiotic,Azithral 500,2,158,31.6,158
+ORD1643,Pune,Cholesterol,Atorva,2,110,22.0,110
+ORD1775,Chennai,Antibiotic,Azithral 500,7,924,184.8,924
+ORD1323,Bengaluru,Calcium,Shelcal,8,800,160.0,800
+ORD1330,Mumbai,Acidity,Pan 40,2,264,52.8,264
+ORD2191,Chennai,Diabetes,Metformin,2,66,13.2,66
+ORD2616,Hyderabad,Cholesterol,Atorva,10,1720,344.0,1720
+ORD1830,Delhi,Cholesterol,Atorva,6,654,130.8,654
+ORD1356,Ahmedabad,Diabetes,Metformin,7,833,166.6,833
+ORD1949,Mumbai,Acidity,Pan 40,9,1350,270.0,1350
+ORD1806,Pune,Allergy,Cetirizine,4,284,56.8,284
+ORD2571,Hyderabad,Antibiotic,Azithral 500,6,594,118.8,594
+ORD1970,Hyderabad,Antibiotic,Azithral 500,8,1040,208.0,1040
+ORD2199,Mumbai,Cardiac,Ecosprin,3,456,91.2,456
+ORD1046,Hyderabad,Fever,Dolo 650,8,648,129.6,648
+ORD2251,Ahmedabad,Allergy,Cetirizine,3,132,26.4,132
+ORD2718,Mumbai,Diabetes,Metformin,6,756,151.2,756
+ORD2037,Bengaluru,Fever,Dolo 650,10,1800,360.0,1800
+ORD2633,Chennai,Antibiotic,Azithral 500,3,312,62.4,312
+ORD1245,Mumbai,Cardiac,Ecosprin,10,350,70.0,350
+ORD2158,Delhi,Calcium,Shelcal,8,208,41.6,208
+ORD1665,Delhi,Acidity,Pan 40,6,846,169.2,846
+ORD1251,Kolkata,Cholesterol,Atorva,5,165,33.0,165
+ORD2559,Chennai,Allergy,Cetirizine,8,224,44.8,224
+ORD2809,Delhi,Allergy,Cetirizine,9,1746,349.2,1746
+ORD1410,Jaipur,Cholesterol,Atorva,9,1674,334.8,1674
+ORD1799,Jaipur,Fever,Dolo 650,4,164,32.8,164
+ORD2574,Pune,Antibiotic,Azithral 500,4,652,130.4,652
+ORD2143,Bengaluru,Diabetes,Metformin,9,918,183.6,918
+ORD2958,Jaipur,Antibiotic,Azithral 500,4,456,91.19999999999999,456
+ORD1446,Delhi,Diabetes,Metformin,7,1211,242.2,1211
+ORD1333,Ahmedabad,Allergy,Cetirizine,2,370,74.0,370
+ORD2765,Kolkata,Cardiac,Ecosprin,8,296,59.2,296
+ORD1854,Delhi,Cholesterol,Atorva,1,153,30.6,153
+ORD2688,Bengaluru,Cardiac,Ecosprin,3,384,76.8,384
+ORD1237,Jaipur,Cardiac,Ecosprin,7,392,78.4,392
+ORD2656,Bengaluru,Acidity,Pan 40,1,189,37.8,189
+ORD1625,Bengaluru,Allergy,Cetirizine,1,78,15.6,78
+ORD2184,Chennai,Allergy,Cetirizine,2,40,8.0,40
+ORD1822,Bengaluru,Cholesterol,Atorva,9,1152,230.4,1152
+ORD2666,Hyderabad,Calcium,Shelcal,10,710,142.0,710
+ORD1464,Kolkata,Allergy,Cetirizine,6,168,33.6,168
+ORD1467,Jaipur,Diabetes,Metformin,3,171,34.2,171
+ORD2964,Ahmedabad,Fever,Dolo 650,4,720,144.0,720
+ORD1294,Bengaluru,Allergy,Cetirizine,6,1038,207.6,1038
+ORD2014,Hyderabad,Cholesterol,Atorva,4,732,146.4,732
+ORD1903,Chennai,Acidity,Pan 40,9,1161,232.2,1161
+ORD1650,Chennai,Calcium,Shelcal,10,790,158.0,790
+ORD1776,Bengaluru,Antibiotic,Azithral 500,4,780,156.0,780
+ORD2844,Hyderabad,Calcium,Shelcal,5,495,99.0,495
+ORD1581,Kolkata,Cholesterol,Atorva,3,408,81.6,408
+ORD1120,Mumbai,Cholesterol,Atorva,6,942,188.4,942
+ORD1696,Bengaluru,Allergy,Cetirizine,4,656,131.2,656
+ORD1932,Kolkata,Calcium,Shelcal,10,1750,350.0,1750
+ORD3016,Hyderabad,Fever,Dolo 650,2,58,11.6,58
+ORD1415,Hyderabad,Calcium,Shelcal,5,475,95.0,475
+ORD1030,Hyderabad,Fever,Dolo 650,6,1146,229.2,1146
+ORD3004,Hyderabad,Allergy,Cetirizine,4,604,120.8,604
+ORD1283,Chennai,Acidity,Pan 40,2,318,63.6,318
+ORD1983,Delhi,Fever,Dolo 650,5,270,54.0,270
+ORD1284,Kolkata,Cholesterol,Atorva,9,1080,216.0,1080
+ORD2607,Kolkata,Antibiotic,Azithral 500,3,471,94.2,471
+ORD3000,Hyderabad,Allergy,Cetirizine,8,1552,310.4,1552
+ORD2887,Hyderabad,Cholesterol,Atorva,8,1408,281.6,1408
+ORD2975,Mumbai,Antibiotic,Azithral 500,10,1780,356.0,1780
+ORD1138,Pune,Fever,Dolo 650,10,1370,274.0,1370
+ORD1644,Hyderabad,Allergy,Cetirizine,9,1476,295.2,1476
+ORD1400,Pune,Allergy,Cetirizine,3,390,78.0,390
+ORD1863,Bengaluru,Allergy,Cetirizine,3,306,61.2,306
+ORD2756,Bengaluru,Calcium,Shelcal,8,1136,227.2,1136
+ORD1989,Bengaluru,Diabetes,Metformin,10,340,68.0,340
+ORD1212,Delhi,Antibiotic,Azithral 500,6,1146,229.2,1146
+ORD2188,Kolkata,Cholesterol,Atorva,4,216,43.2,216
+ORD1566,Hyderabad,Fever,Dolo 650,10,990,198.0,990
+ORD1741,Hyderabad,Acidity,Pan 40,8,1336,267.2,1336
+ORD2629,Chennai,Allergy,Cetirizine,10,870,174.0,870
+ORD1041,Chennai,Cardiac,Ecosprin,7,1162,232.4,1162
+ORD1920,Kolkata,Cardiac,Ecosprin,6,882,176.4,882
+ORD2102,Bengaluru,Fever,Dolo 650,3,216,43.2,216
+ORD1350,Chennai,Allergy,Cetirizine,1,52,10.4,52
+ORD2137,Jaipur,Cholesterol,Atorva,9,648,129.6,648
+ORD2829,Mumbai,Cholesterol,Atorva,2,218,43.6,218
+ORD2730,Kolkata,Diabetes,Metformin,10,1550,310.0,1550
+ORD2875,Chennai,Diabetes,Metformin,7,364,72.8,364
+ORD2609,Kolkata,Allergy,Cetirizine,8,368,73.6,368
+ORD2172,Hyderabad,Antibiotic,Azithral 500,9,297,59.4,297
+ORD2621,Chennai,Cholesterol,Atorva,6,768,153.6,768
+ORD1256,Kolkata,Fever,Dolo 650,4,120,24.0,120
+ORD2744,Mumbai,Antibiotic,Azithral 500,8,1248,249.6,1248
+ORD1494,Jaipur,Diabetes,Metformin,2,244,48.8,244
+ORD1451,Hyderabad,Cholesterol,Atorva,5,135,27.0,135
+ORD2396,Chennai,Allergy,Cetirizine,3,489,97.80000000000001,489
+ORD1690,Delhi,Acidity,Pan 40,1,152,30.4,152
+ORD1191,Chennai,Fever,Dolo 650,8,1520,304.0,1520
+ORD3029,Delhi,Cholesterol,Atorva,9,1323,264.59999999999997,1323
+ORD1510,Kolkata,Cardiac,Ecosprin,8,768,153.6,768
+ORD2197,Mumbai,Cardiac,Ecosprin,6,996,199.2,996
+ORD2611,Kolkata,Antibiotic,Azithral 500,2,266,53.2,266
+ORD1173,Kolkata,Allergy,Cetirizine,2,260,52.0,260
+ORD2219,Chennai,Antibiotic,Azithral 500,1,91,18.2,91
+ORD1426,Hyderabad,Allergy,Cetirizine,8,1392,278.4,1392
+ORD2879,Chennai,Fever,Dolo 650,6,1104,220.8,1104
+ORD2566,Kolkata,Fever,Dolo 650,7,700,140.0,700
+ORD2453,Mumbai,Antibiotic,Azithral 500,6,348,69.6,348
+ORD1225,Pune,Antibiotic,Azithral 500,10,410,82.0,410
+ORD1646,Mumbai,Fever,Dolo 650,4,540,108.0,540
+ORD2378,Delhi,Calcium,Shelcal,3,573,114.6,573
+ORD2635,Chennai,Antibiotic,Azithral 500,8,288,57.6,288
+ORD2876,Hyderabad,Antibiotic,Azithral 500,2,204,40.8,204
+ORD1763,Ahmedabad,Cardiac,Ecosprin,4,532,106.4,532
+ORD2911,Kolkata,Acidity,Pan 40,1,166,33.2,166
+ORD1449,Pune,Acidity,Pan 40,5,790,158.0,790
+ORD1635,Bengaluru,Antibiotic,Azithral 500,8,1192,238.4,1192
+ORD2235,Delhi,Calcium,Shelcal,10,1810,362.0,1810
+ORD2315,Chennai,Diabetes,Metformin,6,474,94.8,474
+ORD1496,Pune,Allergy,Cetirizine,9,270,54.0,270
+ORD2556,Bengaluru,Acidity,Pan 40,5,180,36.0,180
+ORD2781,Chennai,Antibiotic,Azithral 500,10,660,132.0,660
+ORD1603,Kolkata,Cardiac,Ecosprin,7,511,102.2,511
+ORD1726,Kolkata,Acidity,Pan 40,1,161,32.2,161
+ORD1183,Mumbai,Diabetes,Metformin,2,204,40.8,204
+ORD2791,Kolkata,Acidity,Pan 40,7,252,50.4,252
+ORD2776,Delhi,Fever,Dolo 650,4,420,84.0,420
+ORD1393,Delhi,Cardiac,Ecosprin,4,136,27.200000000000003,136
+ORD2995,Chennai,Acidity,Pan 40,9,1512,302.40000000000003,1512
+ORD1586,Kolkata,Calcium,Shelcal,10,1270,254.0,1270
+ORD1813,Bengaluru,Fever,Dolo 650,4,240,48.0,240
+ORD1846,Pune,Diabetes,Metformin,2,204,40.8,204
+ORD1710,Kolkata,Cardiac,Ecosprin,10,610,122.0,610
+ORD2109,Chennai,Acidity,Pan 40,10,1570,314.0,1570
+ORD1850,Ahmedabad,Antibiotic,Azithral 500,9,990,198.0,990
+ORD2671,Ahmedabad,Acidity,Pan 40,9,1359,271.8,1359
+ORD1704,Hyderabad,Acidity,Pan 40,3,597,119.4,597
+ORD2237,Hyderabad,Cardiac,Ecosprin,4,144,28.8,144
+ORD2930,Kolkata,Allergy,Cetirizine,3,210,42.0,210
+ORD2216,Bengaluru,Calcium,Shelcal,10,1060,212.0,1060
+ORD1214,Kolkata,Antibiotic,Azithral 500,2,130,26.0,130
+ORD1079,Bengaluru,Calcium,Shelcal,1,97,19.4,97
+ORD2598,Hyderabad,Acidity,Pan 40,1,145,29.0,145
+ORD1218,Kolkata,Allergy,Cetirizine,7,1344,268.8,1344
+ORD2680,Mumbai,Fever,Dolo 650,6,1026,205.2,1026
+ORD1305,Pune,Cardiac,Ecosprin,6,252,50.4,252
+ORD1870,Hyderabad,Cholesterol,Atorva,4,424,84.8,424
+ORD1089,Mumbai,Diabetes,Metformin,5,920,184.0,920
+ORD2955,Ahmedabad,Cholesterol,Atorva,7,826,165.2,826
+ORD1944,Mumbai,Cholesterol,Atorva,3,399,79.8,399
+ORD2913,Pune,Antibiotic,Azithral 500,2,114,22.8,114
+ORD2707,Delhi,Cardiac,Ecosprin,4,792,158.4,792
+ORD1328,Hyderabad,Fever,Dolo 650,7,798,159.6,798
+ORD2450,Mumbai,Cardiac,Ecosprin,9,828,165.6,828
+ORD2151,Bengaluru,Diabetes,Metformin,2,286,57.2,286
+ORD2977,Kolkata,Cholesterol,Atorva,7,385,77.0,385
+ORD2608,Pune,Acidity,Pan 40,2,356,71.2,356
+ORD2329,Jaipur,Acidity,Pan 40,3,531,106.2,531
+ORD2998,Delhi,Cardiac,Ecosprin,3,183,36.6,183
+ORD1261,Chennai,Allergy,Cetirizine,3,201,40.2,201
+ORD2047,Jaipur,Fever,Dolo 650,5,180,36.0,180
+ORD1128,Bengaluru,Acidity,Pan 40,7,1092,218.4,1092
+ORD1220,Kolkata,Fever,Dolo 650,4,332,66.4,332
+ORD1129,Jaipur,Fever,Dolo 650,1,87,17.4,87
+ORD2542,Chennai,Cholesterol,Atorva,10,1890,378.0,1890
+ORD2106,Ahmedabad,Cardiac,Ecosprin,7,924,184.8,924
+ORD2276,Bengaluru,Cardiac,Ecosprin,6,828,165.6,828
+ORD1148,Bengaluru,Allergy,Cetirizine,1,101,20.2,101
+ORD2965,Bengaluru,Cholesterol,Atorva,5,825,165.0,825
+ORD1678,Ahmedabad,Antibiotic,Azithral 500,8,304,60.8,304
+ORD3017,Hyderabad,Antibiotic,Azithral 500,10,1230,246.0,1230
+ORD2395,Bengaluru,Calcium,Shelcal,9,1350,270.0,1350
+ORD2189,Jaipur,Acidity,Pan 40,6,534,106.8,534
+ORD2541,Chennai,Cholesterol,Atorva,1,25,5.0,25
+ORD1504,Bengaluru,Allergy,Cetirizine,2,66,13.2,66
+ORD1124,Jaipur,Diabetes,Metformin,6,852,170.4,852
+ORD1325,Mumbai,Diabetes,Metformin,3,546,109.2,546
+ORD1002,Delhi,Cardiac,Ecosprin,4,96,19.2,96
+ORD1620,Mumbai,Calcium,Shelcal,8,368,73.6,368
+ORD2145,Bengaluru,Calcium,Shelcal,6,1068,213.60000000000002,1068
+ORD1044,Kolkata,Fever,Dolo 650,2,354,70.8,354
+ORD3085,Chennai,Fever,Dolo 650,3,420,84.0,420
+ORD2115,Kolkata,Fever,Dolo 650,9,675,135.0,675
+ORD1723,Chennai,Antibiotic,Azithral 500,4,248,49.6,248
+ORD2864,Delhi,Cardiac,Ecosprin,7,700,140.0,700
+ORD2780,Chennai,Allergy,Cetirizine,6,474,94.8,474
+ORD2354,Chennai,Diabetes,Metformin,5,750,150.0,750
+ORD1127,Ahmedabad,Allergy,Cetirizine,7,1253,250.6,1253
+ORD1978,Mumbai,Allergy,Cetirizine,10,720,144.0,720
+ORD2081,Mumbai,Acidity,Pan 40,3,189,37.8,189
+ORD1523,Hyderabad,Fever,Dolo 650,5,150,30.0,150
+ORD2386,Bengaluru,Acidity,Pan 40,3,405,81.0,405
+ORD2932,Hyderabad,Fever,Dolo 650,5,875,175.0,875
+ORD1324,Kolkata,Diabetes,Metformin,5,425,85.0,425
+ORD1842,Jaipur,Fever,Dolo 650,2,192,38.4,192
+ORD2275,Pune,Allergy,Cetirizine,4,584,116.80000000000001,584
+ORD1901,Chennai,Diabetes,Metformin,8,1136,227.2,1136
+ORD1115,Bengaluru,Allergy,Cetirizine,3,351,70.2,351
+ORD1807,Mumbai,Fever,Dolo 650,10,1630,326.0,1630
+ORD1738,Jaipur,Calcium,Shelcal,4,264,52.8,264
+ORD1788,Bengaluru,Fever,Dolo 650,5,100,20.0,100
+ORD1205,Mumbai,Cholesterol,Atorva,4,632,126.4,632
+ORD2664,Pune,Antibiotic,Azithral 500,10,200,40.0,200
+ORD2028,Delhi,Cardiac,Ecosprin,7,140,28.0,140
+ORD1891,Ahmedabad,Antibiotic,Azithral 500,1,23,4.6,23
+ORD2332,Bengaluru,Diabetes,Metformin,1,22,4.4,22
+ORD2857,Bengaluru,Cardiac,Ecosprin,8,344,68.8,344
+ORD1746,Hyderabad,Diabetes,Metformin,7,336,67.2,336
+ORD2729,Chennai,Diabetes,Metformin,4,292,58.4,292
+ORD2382,Ahmedabad,Acidity,Pan 40,8,1544,308.8,1544
+ORD2003,Ahmedabad,Calcium,Shelcal,8,1544,308.8,1544
+ORD1904,Ahmedabad,Cholesterol,Atorva,7,518,103.6,518
+ORD1327,Delhi,Antibiotic,Azithral 500,8,400,80.0,400
+ORD1506,Kolkata,Diabetes,Metformin,9,567,113.4,567
+ORD2030,Mumbai,Cardiac,Ecosprin,5,825,165.0,825
+ORD2772,Mumbai,Calcium,Shelcal,9,1089,217.8,1089
+ORD2694,Delhi,Fever,Dolo 650,10,1500,300.0,1500
+ORD2066,Mumbai,Cholesterol,Atorva,9,945,189.0,945
+ORD1199,Delhi,Diabetes,Metformin,3,306,61.2,306
+ORD1339,Bengaluru,Cardiac,Ecosprin,5,280,56.0,280
+ORD2436,Jaipur,Fever,Dolo 650,2,202,40.4,202
+ORD3084,Bengaluru,Fever,Dolo 650,1,178,35.6,178
+ORD2814,Hyderabad,Antibiotic,Azithral 500,8,1480,296.0,1480
+ORD1755,Chennai,Cardiac,Ecosprin,9,1323,264.6,1323
+ORD2039,Chennai,Calcium,Shelcal,10,1690,338.0,1690
+ORD1391,Mumbai,Fever,Dolo 650,5,700,140.0,700
+ORD2036,Delhi,Diabetes,Metformin,1,32,6.4,32
+ORD2737,Pune,Allergy,Cetirizine,3,339,67.8,339
+ORD1872,Bengaluru,Diabetes,Metformin,10,1500,300.0,1500
+ORD2783,Bengaluru,Antibiotic,Azithral 500,9,1557,311.4,1557
+ORD1924,Kolkata,Cholesterol,Atorva,7,140,28.0,140
+ORD2799,Bengaluru,Antibiotic,Azithral 500,4,448,89.6,448
+ORD2165,Hyderabad,Calcium,Shelcal,8,1504,300.8,1504
+ORD2060,Bengaluru,Fever,Dolo 650,5,615,123.0,615
+ORD2114,Kolkata,Allergy,Cetirizine,9,567,113.4,567
+ORD1405,Mumbai,Cholesterol,Atorva,10,1420,284.0,1420
+ORD1946,Hyderabad,Cholesterol,Atorva,6,738,147.6,738
+ORD2872,Chennai,Antibiotic,Azithral 500,7,518,103.6,518
+ORD2334,Kolkata,Antibiotic,Azithral 500,2,176,35.2,176
+ORD3074,Chennai,Allergy,Cetirizine,6,456,91.2,456
+ORD1725,Jaipur,Allergy,Cetirizine,5,920,184.0,920
+ORD1757,Bengaluru,Antibiotic,Azithral 500,9,1107,221.4,1107
+ORD1049,Mumbai,Fever,Dolo 650,2,356,71.2,356
+ORD2766,Mumbai,Antibiotic,Azithral 500,6,696,139.2,696
+ORD2543,Bengaluru,Allergy,Cetirizine,9,711,142.2,711
+ORD2150,Hyderabad,Antibiotic,Azithral 500,9,891,178.2,891
+ORD1279,Bengaluru,Antibiotic,Azithral 500,10,240,47.99999999999999,240
+ORD3007,Mumbai,Cholesterol,Atorva,7,798,159.6,798
+ORD1908,Hyderabad,Acidity,Pan 40,7,567,113.4,567
+ORD2343,Kolkata,Cardiac,Ecosprin,4,268,53.6,268
+ORD1987,Delhi,Antibiotic,Azithral 500,9,1530,306.0,1530
+ORD1774,Bengaluru,Calcium,Shelcal,4,632,126.4,632
+ORD2589,Jaipur,Allergy,Cetirizine,10,930,186.0,930
+ORD2662,Jaipur,Acidity,Pan 40,2,190,38.0,190
+ORD2702,Ahmedabad,Cholesterol,Atorva,2,44,8.8,44
+ORD2509,Hyderabad,Calcium,Shelcal,10,600,120.0,600
+ORD1758,Kolkata,Fever,Dolo 650,9,549,109.8,549
+ORD2142,Pune,Cholesterol,Atorva,4,160,32.0,160
+ORD2131,Jaipur,Calcium,Shelcal,10,1190,238.0,1190
+ORD2432,Pune,Allergy,Cetirizine,8,1080,216.0,1080
+ORD3003,Delhi,Antibiotic,Azithral 500,6,762,152.4,762
+ORD1018,Mumbai,Diabetes,Metformin,2,276,55.2,276
+ORD2046,Kolkata,Cholesterol,Atorva,5,285,57.0,285
+ORD1584,Delhi,Cardiac,Ecosprin,1,58,11.6,58
+ORD2903,Bengaluru,Fever,Dolo 650,2,134,26.8,134
+ORD1801,Mumbai,Diabetes,Metformin,1,100,20.0,100
+ORD2704,Jaipur,Allergy,Cetirizine,1,78,15.6,78
+ORD1535,Bengaluru,Calcium,Shelcal,9,1683,336.6,1683
+ORD1552,Kolkata,Cholesterol,Atorva,4,516,103.2,516
+ORD2040,Bengaluru,Cholesterol,Atorva,9,306,61.2,306
+ORD2916,Pune,Cardiac,Ecosprin,3,141,28.2,141
+ORD1161,Hyderabad,Allergy,Cetirizine,9,738,147.6,738
+ORD1208,Bengaluru,Calcium,Shelcal,2,344,68.8,344
+ORD1499,Jaipur,Diabetes,Metformin,3,459,91.8,459
+ORD2860,Mumbai,Diabetes,Metformin,1,44,8.8,44
+ORD1529,Delhi,Allergy,Cetirizine,2,126,25.2,126
+ORD1000,Hyderabad,Allergy,Cetirizine,5,850,170.0,850
+ORD2508,Hyderabad,Acidity,Pan 40,5,290,58.0,290
+ORD2813,Mumbai,Cholesterol,Atorva,10,360,72.0,360
+ORD2947,Hyderabad,Cholesterol,Atorva,9,1539,307.8,1539
+ORD2494,Kolkata,Acidity,Pan 40,9,1314,262.8,1314
+ORD3070,Delhi,Fever,Dolo 650,2,290,58.0,290
+ORD3025,Delhi,Allergy,Cetirizine,3,510,102.0,510
+ORD2175,Mumbai,Allergy,Cetirizine,7,476,95.2,476
+ORD2830,Pune,Allergy,Cetirizine,8,1048,209.6,1048
+ORD1750,Jaipur,Cardiac,Ecosprin,9,1701,340.2,1701
+ORD1853,Mumbai,Acidity,Pan 40,9,1206,241.2,1206
+ORD2431,Bengaluru,Allergy,Cetirizine,5,620,124.0,620
+ORD2089,Delhi,Cholesterol,Atorva,3,540,108.0,540
+ORD2462,Kolkata,Calcium,Shelcal,3,111,22.2,111
+ORD1164,Bengaluru,Calcium,Shelcal,6,474,94.8,474
+ORD1159,Bengaluru,Allergy,Cetirizine,4,248,49.6,248
+ORD2348,Pune,Allergy,Cetirizine,10,410,82.0,410
+ORD2098,Chennai,Cardiac,Ecosprin,6,468,93.6,468
+ORD2317,Ahmedabad,Cardiac,Ecosprin,8,344,68.8,344
+ORD2501,Delhi,Acidity,Pan 40,10,1260,252.0,1260
+ORD2375,Chennai,Cardiac,Ecosprin,5,335,67.0,335
+ORD2194,Bengaluru,Fever,Dolo 650,6,246,49.2,246
+ORD1765,Delhi,Cholesterol,Atorva,7,966,193.2,966
+ORD1490,Pune,Allergy,Cetirizine,5,925,185.0,925
+ORD2076,Bengaluru,Diabetes,Metformin,2,170,34.0,170
+ORD2599,Hyderabad,Antibiotic,Azithral 500,4,624,124.8,624
+ORD1262,Bengaluru,Antibiotic,Azithral 500,1,72,14.4,72
+ORD1354,Kolkata,Antibiotic,Azithral 500,4,260,52.0,260
+ORD2901,Chennai,Diabetes,Metformin,9,954,190.8,954
+ORD2691,Delhi,Acidity,Pan 40,4,556,111.2,556
+ORD3051,Bengaluru,Antibiotic,Azithral 500,6,474,94.8,474
+ORD2871,Bengaluru,Cardiac,Ecosprin,1,119,23.8,119
+ORD1840,Hyderabad,Cardiac,Ecosprin,9,252,50.4,252
+ORD2029,Hyderabad,Antibiotic,Azithral 500,5,430,85.99999999999999,430
+ORD2307,Hyderabad,Cholesterol,Atorva,3,489,97.8,489
+ORD1180,Hyderabad,Cardiac,Ecosprin,9,297,59.4,297
+ORD2340,Mumbai,Calcium,Shelcal,3,552,110.4,552
+ORD2583,Bengaluru,Cholesterol,Atorva,4,292,58.4,292
+ORD1052,Hyderabad,Antibiotic,Azithral 500,1,126,25.2,126
+ORD1530,Ahmedabad,Cholesterol,Atorva,7,399,79.8,399
+ORD2886,Hyderabad,Fever,Dolo 650,8,1192,238.39999999999998,1192
+ORD2632,Kolkata,Calcium,Shelcal,5,185,37.0,185
+ORD2403,Delhi,Allergy,Cetirizine,6,450,90.0,450
+ORD1368,Bengaluru,Diabetes,Metformin,5,410,82.0,410
+ORD1265,Mumbai,Diabetes,Metformin,3,138,27.6,138
+ORD2960,Chennai,Cardiac,Ecosprin,8,280,56.0,280
+ORD1051,Kolkata,Calcium,Shelcal,6,1074,214.8,1074
+ORD2812,Bengaluru,Allergy,Cetirizine,4,220,44.0,220
+ORD2296,Pune,Antibiotic,Azithral 500,5,620,124.0,620
+ORD1754,Bengaluru,Cardiac,Ecosprin,2,168,33.6,168
+ORD1515,Jaipur,Antibiotic,Azithral 500,10,1330,266.0,1330
+ORD2492,Bengaluru,Cholesterol,Atorva,4,376,75.2,376
+ORD1447,Hyderabad,Antibiotic,Azithral 500,1,138,27.6,138
+ORD1329,Chennai,Fever,Dolo 650,2,340,68.0,340
+ORD2820,Bengaluru,Cholesterol,Atorva,10,350,70.0,350
+ORD1867,Chennai,Fever,Dolo 650,8,1528,305.6,1528
+ORD1005,Pune,Allergy,Cetirizine,7,497,99.4,497
+ORD2768,Mumbai,Diabetes,Metformin,8,368,73.6,368
+ORD1980,Chennai,Antibiotic,Azithral 500,5,140,28.0,140
+ORD3048,Bengaluru,Fever,Dolo 650,4,588,117.6,588
+ORD2055,Mumbai,Antibiotic,Azithral 500,9,1755,351.0,1755
+ORD1787,Mumbai,Diabetes,Metformin,10,1710,342.0,1710
+ORD1551,Mumbai,Calcium,Shelcal,6,816,163.2,816
+ORD3043,Kolkata,Cardiac,Ecosprin,4,92,18.4,92
+ORD1997,Mumbai,Diabetes,Metformin,4,368,73.6,368
+ORD2551,Bengaluru,Allergy,Cetirizine,1,143,28.6,143
+ORD2950,Chennai,Antibiotic,Azithral 500,7,1106,221.2,1106
+ORD1517,Hyderabad,Diabetes,Metformin,8,800,160.0,800
+ORD2309,Kolkata,Acidity,Pan 40,7,1337,267.40000000000003,1337
+ORD2212,Jaipur,Calcium,Shelcal,5,775,155.0,775
+ORD1029,Chennai,Diabetes,Metformin,2,144,28.8,144
+ORD2132,Ahmedabad,Acidity,Pan 40,3,219,43.8,219
+ORD2642,Chennai,Cholesterol,Atorva,4,316,63.2,316
+ORD1819,Bengaluru,Antibiotic,Azithral 500,2,256,51.2,256
+ORD3062,Hyderabad,Cardiac,Ecosprin,6,354,70.8,354
+ORD2819,Pune,Cholesterol,Atorva,1,74,14.8,74
+ORD1342,Bengaluru,Calcium,Shelcal,7,427,85.4,427
+ORD1203,Mumbai,Acidity,Pan 40,7,756,151.2,756
+ORD2873,Mumbai,Allergy,Cetirizine,10,780,156.0,780
+ORD1666,Bengaluru,Cholesterol,Atorva,6,840,168.0,840
+ORD1143,Bengaluru,Antibiotic,Azithral 500,1,189,37.8,189
+ORD1187,Ahmedabad,Cardiac,Ecosprin,7,1127,225.4,1127
+ORD2636,Bengaluru,Fever,Dolo 650,1,104,20.8,104
+ORD3026,Hyderabad,Allergy,Cetirizine,7,1043,208.6,1043
+ORD1057,Delhi,Diabetes,Metformin,6,648,129.6,648
+ORD1805,Bengaluru,Fever,Dolo 650,8,680,136.0,680
+ORD2567,Kolkata,Antibiotic,Azithral 500,3,357,71.4,357
+ORD1866,Mumbai,Cholesterol,Atorva,6,162,32.4,162
+ORD1422,Chennai,Acidity,Pan 40,5,535,107.0,535
+ORD1023,Hyderabad,Fever,Dolo 650,4,536,107.2,536
+ORD2442,Hyderabad,Cardiac,Ecosprin,6,558,111.6,558
+ORD2261,Chennai,Fever,Dolo 650,5,920,184.0,920
+ORD2277,Ahmedabad,Cardiac,Ecosprin,7,567,113.4,567
+ORD1168,Pune,Acidity,Pan 40,10,1520,304.0,1520
+ORD1131,Mumbai,Allergy,Cetirizine,7,1008,201.6,1008
+ORD2859,Delhi,Cardiac,Ecosprin,4,692,138.4,692
+ORD2805,Bengaluru,Diabetes,Metformin,10,200,40.0,200
+ORD2724,Bengaluru,Antibiotic,Azithral 500,1,186,37.2,186
+ORD1590,Delhi,Antibiotic,Azithral 500,2,264,52.8,264
+ORD2244,Delhi,Diabetes,Metformin,6,654,130.8,654
+ORD1110,Kolkata,Fever,Dolo 650,1,193,38.6,193
+ORD2035,Bengaluru,Diabetes,Metformin,7,364,72.8,364
+ORD2949,Kolkata,Cardiac,Ecosprin,3,306,61.2,306
+ORD2345,Mumbai,Acidity,Pan 40,7,1386,277.2,1386
+ORD1721,Bengaluru,Allergy,Cetirizine,7,413,82.6,413
+ORD2593,Chennai,Acidity,Pan 40,4,100,20.0,100
+ORD1300,Kolkata,Cholesterol,Atorva,9,531,106.2,531
+ORD1795,Jaipur,Cardiac,Ecosprin,5,775,155.0,775
+ORD2907,Kolkata,Calcium,Shelcal,4,416,83.2,416
+ORD2904,Kolkata,Cholesterol,Atorva,6,1200,240.0,1200
+ORD1221,Jaipur,Calcium,Shelcal,5,970,194.0,970
+ORD1864,Mumbai,Diabetes,Metformin,7,651,130.2,651
+ORD1730,Delhi,Acidity,Pan 40,9,1296,259.2,1296
+ORD3072,Bengaluru,Allergy,Cetirizine,2,264,52.8,264
+ORD1798,Hyderabad,Calcium,Shelcal,10,620,124.0,620
+ORD1050,Pune,Cholesterol,Atorva,1,92,18.4,92
+ORD1589,Chennai,Calcium,Shelcal,8,568,113.6,568
+ORD2962,Hyderabad,Diabetes,Metformin,7,469,93.8,469
+ORD1184,Bengaluru,Acidity,Pan 40,1,47,9.4,47
+ORD1858,Bengaluru,Antibiotic,Azithral 500,1,31,6.2,31
+ORD2661,Jaipur,Antibiotic,Azithral 500,8,392,78.4,392
+ORD2372,Mumbai,Acidity,Pan 40,2,262,52.400000000000006,262
+ORD3009,Pune,Calcium,Shelcal,5,225,45.0,225
+ORD1165,Mumbai,Cholesterol,Atorva,4,492,98.4,492
+ORD2540,Kolkata,Antibiotic,Azithral 500,6,774,154.8,774
+ORD1491,Pune,Cardiac,Ecosprin,6,612,122.4,612
+ORD2006,Hyderabad,Fever,Dolo 650,3,423,84.6,423
+ORD2420,Kolkata,Acidity,Pan 40,10,400,80.0,400
+ORD1614,Pune,Antibiotic,Azithral 500,6,330,66.0,330
+ORD2448,Kolkata,Cholesterol,Atorva,7,1260,252.0,1260
+ORD2674,Pune,Cholesterol,Atorva,4,200,40.0,200
+ORD1545,Hyderabad,Acidity,Pan 40,2,186,37.2,186
+ORD2502,Delhi,Fever,Dolo 650,10,1060,212.0,1060
+ORD2390,Delhi,Cardiac,Ecosprin,2,42,8.4,42
+ORD2890,Chennai,Antibiotic,Azithral 500,5,155,31.0,155
+ORD1224,Delhi,Calcium,Shelcal,8,1464,292.8,1464
+ORD1498,Chennai,Acidity,Pan 40,4,424,84.8,424
+ORD2311,Hyderabad,Calcium,Shelcal,9,747,149.4,747
+ORD1583,Hyderabad,Allergy,Cetirizine,2,384,76.8,384
+ORD2084,Hyderabad,Diabetes,Metformin,8,1520,304.0,1520
+ORD1361,Hyderabad,Calcium,Shelcal,4,632,126.4,632
+ORD2454,Hyderabad,Calcium,Shelcal,2,172,34.4,172
+ORD2832,Pune,Cholesterol,Atorva,9,1773,354.6,1773
+ORD2094,Bengaluru,Calcium,Shelcal,6,1152,230.4,1152
+ORD2981,Hyderabad,Calcium,Shelcal,6,774,154.8,774
+ORD1206,Chennai,Acidity,Pan 40,1,170,34.0,170
+ORD1912,Chennai,Antibiotic,Azithral 500,1,99,19.8,99
+ORD1626,Delhi,Allergy,Cetirizine,8,1080,216.0,1080
+ORD1076,Delhi,Cardiac,Ecosprin,2,208,41.6,208
+ORD2434,Hyderabad,Antibiotic,Azithral 500,6,798,159.6,798
+ORD1437,Mumbai,Fever,Dolo 650,7,1365,273.0,1365
+ORD2181,Ahmedabad,Diabetes,Metformin,1,139,27.8,139
+ORD2107,Delhi,Allergy,Cetirizine,5,625,125.0,625
+ORD1555,Chennai,Fever,Dolo 650,8,1368,273.6,1368
+ORD2546,Bengaluru,Acidity,Pan 40,8,1080,216.0,1080
+ORD1812,Chennai,Acidity,Pan 40,5,185,37.0,185
+ORD1698,Hyderabad,Acidity,Pan 40,10,1480,296.0,1480
+ORD1263,Mumbai,Cholesterol,Atorva,4,760,152.0,760
+ORD2350,Bengaluru,Acidity,Pan 40,10,930,186.0,930
+ORD2347,Bengaluru,Diabetes,Metformin,5,465,93.0,465
+ORD2775,Ahmedabad,Antibiotic,Azithral 500,6,456,91.2,456
+ORD2503,Chennai,Diabetes,Metformin,5,560,112.0,560
+ORD1880,Ahmedabad,Calcium,Shelcal,7,1141,228.2,1141
+ORD2139,Delhi,Antibiotic,Azithral 500,10,1490,298.0,1490
+ORD1306,Kolkata,Antibiotic,Azithral 500,10,1120,224.0,1120
+ORD2016,Bengaluru,Fever,Dolo 650,4,236,47.2,236
+ORD1954,Pune,Cardiac,Ecosprin,10,460,92.0,460
+ORD2507,Hyderabad,Antibiotic,Azithral 500,2,92,18.4,92
+ORD1791,Bengaluru,Acidity,Pan 40,2,148,29.6,148
+ORD2992,Chennai,Cholesterol,Atorva,1,182,36.4,182
+ORD2723,Ahmedabad,Cholesterol,Atorva,1,173,34.6,173
+ORD1277,Bengaluru,Antibiotic,Azithral 500,5,185,37.0,185
+ORD2902,Delhi,Cardiac,Ecosprin,8,176,35.2,176
+ORD2917,Kolkata,Acidity,Pan 40,10,550,110.0,550
+ORD1862,Pune,Cholesterol,Atorva,9,378,75.6,378
+ORD2631,Bengaluru,Cardiac,Ecosprin,10,1340,268.0,1340
+ORD1898,Mumbai,Fever,Dolo 650,3,558,111.6,558
+ORD2146,Kolkata,Allergy,Cetirizine,9,1413,282.6,1413
+ORD1200,Chennai,Cardiac,Ecosprin,10,470,94.0,470
+ORD2935,Hyderabad,Calcium,Shelcal,5,400,80.0,400
+ORD2531,Chennai,Fever,Dolo 650,4,700,140.0,700
+ORD1268,Chennai,Fever,Dolo 650,8,1000,200.0,1000
+ORD1194,Chennai,Antibiotic,Azithral 500,2,396,79.2,396
+ORD1055,Chennai,Diabetes,Metformin,4,316,63.2,316
+ORD2705,Jaipur,Calcium,Shelcal,3,423,84.6,423
+ORD2208,Bengaluru,Cardiac,Ecosprin,8,1120,224.0,1120
+ORD2180,Delhi,Cardiac,Ecosprin,9,1449,289.8,1449
+ORD1739,Chennai,Cardiac,Ecosprin,1,41,8.2,41
+ORD1482,Bengaluru,Allergy,Cetirizine,3,540,108.0,540
+ORD1948,Bengaluru,Diabetes,Metformin,2,368,73.6,368
+ORD1951,Mumbai,Cardiac,Ecosprin,1,71,14.2,71
+ORD1020,Hyderabad,Antibiotic,Azithral 500,7,315,63.0,315
+ORD1783,Bengaluru,Fever,Dolo 650,1,63,12.6,63
+ORD1260,Pune,Allergy,Cetirizine,2,336,67.2,336
+ORD3019,Chennai,Cholesterol,Atorva,5,470,94.0,470
+ORD1418,Delhi,Cardiac,Ecosprin,8,392,78.4,392
+ORD2782,Kolkata,Allergy,Cetirizine,2,96,19.2,96
+ORD1285,Mumbai,Diabetes,Metformin,10,1110,222.0,1110
+ORD1677,Mumbai,Diabetes,Metformin,5,815,163.0,815
+ORD1582,Mumbai,Cholesterol,Atorva,8,784,156.8,784
+ORD1655,Mumbai,Cholesterol,Atorva,3,486,97.2,486
+ORD1006,Bengaluru,Fever,Dolo 650,5,505,101.0,505
+ORD2843,Chennai,Allergy,Cetirizine,4,552,110.4,552
+ORD1309,Jaipur,Cholesterol,Atorva,8,528,105.6,528
+ORD1585,Ahmedabad,Allergy,Cetirizine,8,592,118.4,592
+ORD2090,Delhi,Acidity,Pan 40,4,144,28.8,144
+ORD2061,Chennai,Antibiotic,Azithral 500,9,1116,223.2,1116
+ORD2906,Mumbai,Fever,Dolo 650,2,172,34.4,172
+ORD1321,Pune,Diabetes,Metformin,4,340,68.0,340
+ORD2816,Mumbai,Cholesterol,Atorva,4,100,20.0,100
+ORD1282,Delhi,Cholesterol,Atorva,9,1107,221.4,1107
+ORD2038,Bengaluru,Cholesterol,Atorva,6,294,58.8,294
+ORD1860,Bengaluru,Cholesterol,Atorva,1,34,6.8,34
+ORD1367,Bengaluru,Cholesterol,Atorva,6,468,93.6,468
+ORD1706,Mumbai,Allergy,Cetirizine,8,832,166.4,832
+ORD1500,Chennai,Cardiac,Ecosprin,10,620,124.0,620
+ORD2342,Chennai,Acidity,Pan 40,9,1404,280.8,1404
+ORD2978,Pune,Cardiac,Ecosprin,9,360,72.0,360
+ORD2091,Bengaluru,Diabetes,Metformin,1,181,36.2,181
+ORD2743,Kolkata,Fever,Dolo 650,7,1120,224.0,1120
+ORD2817,Hyderabad,Antibiotic,Azithral 500,3,276,55.2,276
+ORD2523,Hyderabad,Cholesterol,Atorva,6,150,30.0,150
+ORD3044,Hyderabad,Allergy,Cetirizine,2,238,47.6,238
+ORD2736,Kolkata,Diabetes,Metformin,2,76,15.2,76
+ORD1008,Jaipur,Acidity,Pan 40,5,250,50.0,250
+ORD1181,Kolkata,Fever,Dolo 650,3,486,97.2,486
+ORD1360,Hyderabad,Calcium,Shelcal,8,592,118.4,592
+ORD1222,Jaipur,Fever,Dolo 650,6,564,112.8,564
+ORD1440,Delhi,Acidity,Pan 40,6,804,160.8,804
+ORD2404,Delhi,Diabetes,Metformin,2,102,20.4,102
+ORD1688,Mumbai,Acidity,Pan 40,9,783,156.6,783
+ORD1230,Mumbai,Acidity,Pan 40,9,1701,340.2,1701
+ORD1317,Bengaluru,Allergy,Cetirizine,10,1330,266.0,1330
+ORD2104,Bengaluru,Calcium,Shelcal,6,1020,204.0,1020
+ORD2564,Chennai,Fever,Dolo 650,6,648,129.6,648
+ORD2240,Delhi,Acidity,Pan 40,3,363,72.6,363
+ORD1153,Pune,Fever,Dolo 650,2,320,64.0,320
+ORD1122,Delhi,Diabetes,Metformin,7,1260,252.0,1260
+ORD2603,Mumbai,Acidity,Pan 40,4,120,24.0,120
+ORD2740,Mumbai,Allergy,Cetirizine,1,102,20.4,102
+ORD1612,Kolkata,Acidity,Pan 40,5,540,108.0,540
+ORD1095,Jaipur,Fever,Dolo 650,5,700,140.0,700
+ORD1986,Kolkata,Acidity,Pan 40,2,344,68.8,344
+ORD1818,Bengaluru,Allergy,Cetirizine,6,468,93.6,468
+ORD2250,Delhi,Antibiotic,Azithral 500,6,1104,220.8,1104
+ORD2493,Hyderabad,Cholesterol,Atorva,4,728,145.6,728
+ORD2651,Chennai,Acidity,Pan 40,9,801,160.2,801
+ORD1939,Hyderabad,Antibiotic,Azithral 500,10,1280,256.0,1280
+ORD2168,Chennai,Fever,Dolo 650,5,120,24.0,120
+ORD1384,Hyderabad,Cardiac,Ecosprin,2,262,52.4,262
+ORD2824,Delhi,Cholesterol,Atorva,10,1120,224.0,1120
+ORD1331,Delhi,Cardiac,Ecosprin,3,546,109.2,546
+ORD2490,Mumbai,Fever,Dolo 650,3,156,31.2,156
+ORD2529,Delhi,Allergy,Cetirizine,9,1674,334.8,1674
+ORD2271,Ahmedabad,Allergy,Cetirizine,4,792,158.4,792
+ORD2912,Delhi,Diabetes,Metformin,3,465,93.0,465
+ORD2458,Bengaluru,Acidity,Pan 40,6,804,160.8,804
+ORD2446,Kolkata,Diabetes,Metformin,4,692,138.4,692
+ORD2908,Pune,Antibiotic,Azithral 500,1,117,23.4,117
+ORD1195,Kolkata,Diabetes,Metformin,2,344,68.8,344
+ORD2733,Mumbai,Cardiac,Ecosprin,9,1692,338.4,1692
+ORD2547,Bengaluru,Allergy,Cetirizine,5,225,45.0,225
+ORD2519,Pune,Cholesterol,Atorva,7,161,32.2,161
+ORD1178,Kolkata,Acidity,Pan 40,10,1030,206.0,1030
+ORD1371,Delhi,Allergy,Cetirizine,7,350,70.0,350
+ORD1210,Hyderabad,Antibiotic,Azithral 500,6,522,104.4,522
+ORD1142,Hyderabad,Fever,Dolo 650,10,720,144.0,720
+ORD2980,Kolkata,Cardiac,Ecosprin,8,1384,276.8,1384
+ORD2505,Bengaluru,Cardiac,Ecosprin,4,412,82.4,412
+ORD2554,Chennai,Acidity,Pan 40,1,153,30.6,153
+ORD2085,Chennai,Cardiac,Ecosprin,8,1368,273.6,1368
+ORD2229,Pune,Cholesterol,Atorva,5,920,184.0,920
+ORD1567,Chennai,Acidity,Pan 40,7,1400,280.0,1400
+ORD2789,Ahmedabad,Calcium,Shelcal,10,1410,282.0,1410
+ORD2228,Delhi,Acidity,Pan 40,3,108,21.6,108
+ORD2749,Mumbai,Diabetes,Metformin,6,798,159.60000000000002,798
+ORD2684,Chennai,Diabetes,Metformin,2,256,51.2,256
+ORD2623,Pune,Antibiotic,Azithral 500,4,720,144.0,720
+ORD1097,Bengaluru,Allergy,Cetirizine,4,292,58.4,292
+ORD3064,Bengaluru,Cholesterol,Atorva,9,1053,210.6,1053
+ORD2914,Jaipur,Fever,Dolo 650,5,205,41.0,205
+ORD2667,Jaipur,Fever,Dolo 650,2,318,63.6,318
+ORD1420,Mumbai,Allergy,Cetirizine,5,125,25.0,125
+ORD1024,Bengaluru,Cardiac,Ecosprin,5,625,125.0,625
+ORD2834,Jaipur,Fever,Dolo 650,5,925,185.0,925
+ORD2894,Kolkata,Antibiotic,Azithral 500,3,336,67.2,336
+ORD1676,Hyderabad,Cholesterol,Atorva,3,498,99.6,498
+ORD2433,Bengaluru,Diabetes,Metformin,6,708,141.6,708
+ORD2600,Pune,Cardiac,Ecosprin,1,177,35.4,177
+ORD2665,Jaipur,Cardiac,Ecosprin,6,930,186.0,930
+ORD2751,Jaipur,Fever,Dolo 650,2,130,26.0,130
+ORD2804,Mumbai,Cardiac,Ecosprin,5,440,88.0,440
+ORD2778,Hyderabad,Cardiac,Ecosprin,1,100,20.0,100
+ORD1652,Chennai,Cholesterol,Atorva,8,1496,299.2,1496
+ORD2304,Pune,Acidity,Pan 40,6,624,124.8,624
+ORD1631,Bengaluru,Diabetes,Metformin,5,945,189.0,945
+ORD3067,Kolkata,Allergy,Cetirizine,3,372,74.4,372
+ORD2944,Bengaluru,Allergy,Cetirizine,1,21,4.2,21
+ORD1937,Bengaluru,Diabetes,Metformin,10,1240,248.0,1240
+ORD1957,Chennai,Allergy,Cetirizine,7,882,176.4,882
+ORD1345,Bengaluru,Cholesterol,Atorva,10,760,152.0,760
+ORD1816,Chennai,Allergy,Cetirizine,3,267,53.4,267
+ORD2712,Kolkata,Calcium,Shelcal,10,1590,318.0,1590
+ORD1154,Delhi,Acidity,Pan 40,4,384,76.8,384
+ORD2863,Pune,Cardiac,Ecosprin,6,942,188.4,942
+ORD1720,Bengaluru,Diabetes,Metformin,3,99,19.8,99
+ORD2647,Hyderabad,Calcium,Shelcal,7,1092,218.4,1092
+ORD1126,Bengaluru,Antibiotic,Azithral 500,2,114,22.8,114
+ORD2466,Hyderabad,Acidity,Pan 40,8,896,179.2,896
+ORD1421,Bengaluru,Calcium,Shelcal,6,234,46.8,234
+ORD1841,Jaipur,Acidity,Pan 40,5,740,148.0,740
+ORD1266,Bengaluru,Calcium,Shelcal,2,386,77.2,386
+ORD2020,Bengaluru,Fever,Dolo 650,2,226,45.2,226
+ORD2500,Chennai,Cardiac,Ecosprin,4,324,64.8,324
+ORD1737,Ahmedabad,Acidity,Pan 40,5,220,44.0,220
+ORD2154,Ahmedabad,Calcium,Shelcal,9,918,183.6,918
+ORD1036,Ahmedabad,Allergy,Cetirizine,5,690,138.0,690
+ORD1712,Ahmedabad,Cardiac,Ecosprin,8,1112,222.4,1112
+ORD2004,Hyderabad,Acidity,Pan 40,9,1611,322.2,1611
+ORD1155,Jaipur,Allergy,Cetirizine,3,591,118.2,591
+ORD1931,Delhi,Diabetes,Metformin,3,132,26.4,132
+ORD1900,Bengaluru,Cardiac,Ecosprin,5,810,162.0,810
+ORD1198,Hyderabad,Antibiotic,Azithral 500,2,222,44.4,222
+ORD1078,Mumbai,Allergy,Cetirizine,7,1064,212.8,1064
+ORD3097,Delhi,Allergy,Cetirizine,5,850,170.0,850
+ORD1374,Delhi,Antibiotic,Azithral 500,8,1472,294.4,1472
+ORD1402,Ahmedabad,Fever,Dolo 650,6,1098,219.6,1098
+ORD1196,Jaipur,Antibiotic,Azithral 500,1,196,39.2,196
+ORD1388,Bengaluru,Calcium,Shelcal,10,780,156.0,780
+ORD1917,Chennai,Acidity,Pan 40,3,591,118.2,591
+ORD1779,Delhi,Acidity,Pan 40,8,296,59.2,296
+ORD1177,Bengaluru,Calcium,Shelcal,9,666,133.2,666
+ORD2401,Delhi,Fever,Dolo 650,4,188,37.6,188
+ORD2573,Pune,Cholesterol,Atorva,5,800,160.0,800
+ORD1543,Hyderabad,Fever,Dolo 650,1,132,26.4,132
+ORD2083,Kolkata,Cholesterol,Atorva,7,343,68.6,343
+ORD2753,Mumbai,Calcium,Shelcal,5,960,192.0,960
+ORD1412,Bengaluru,Allergy,Cetirizine,6,606,121.2,606
+ORD2557,Kolkata,Cardiac,Ecosprin,3,138,27.6,138
+ORD2302,Hyderabad,Diabetes,Metformin,4,508,101.6,508
+ORD2424,Mumbai,Acidity,Pan 40,4,120,24.0,120
+ORD2185,Mumbai,Cardiac,Ecosprin,2,212,42.400000000000006,212
+ORD2249,Delhi,Allergy,Cetirizine,4,408,81.6,408
+ORD1624,Delhi,Diabetes,Metformin,3,369,73.8,369
+ORD2620,Kolkata,Allergy,Cetirizine,6,222,44.4,222
+ORD2485,Ahmedabad,Allergy,Cetirizine,1,43,8.6,43
+ORD1959,Delhi,Antibiotic,Azithral 500,3,318,63.6,318
+ORD1098,Ahmedabad,Cardiac,Ecosprin,3,141,28.200000000000003,141
+ORD1140,Mumbai,Antibiotic,Azithral 500,9,333,66.6,333
+ORD2630,Chennai,Calcium,Shelcal,9,1305,261.0,1305
+ORD1938,Bengaluru,Cardiac,Ecosprin,5,875,175.0,875
+ORD2827,Bengaluru,Calcium,Shelcal,3,120,24.0,120
+ORD2052,Chennai,Diabetes,Metformin,4,700,140.0,700
+ORD1875,Chennai,Cardiac,Ecosprin,2,218,43.6,218
+ORD1053,Chennai,Acidity,Pan 40,1,148,29.6,148
+ORD1066,Delhi,Cardiac,Ecosprin,6,234,46.8,234
+ORD2612,Mumbai,Acidity,Pan 40,3,318,63.6,318
+ORD2077,Mumbai,Acidity,Pan 40,6,762,152.4,762
+ORD1965,Kolkata,Cholesterol,Atorva,9,378,75.6,378
+ORD2290,Delhi,Diabetes,Metformin,9,981,196.2,981
+ORD2351,Chennai,Diabetes,Metformin,10,570,114.0,570
+ORD1893,Mumbai,Fever,Dolo 650,10,1700,340.0,1700
+ORD1627,Chennai,Fever,Dolo 650,9,1800,360.0,1800
+ORD1995,Delhi,Cardiac,Ecosprin,5,655,131.0,655
+ORD2279,Mumbai,Fever,Dolo 650,4,148,29.6,148
+ORD2815,Hyderabad,Fever,Dolo 650,6,420,84.0,420
+ORD1087,Kolkata,Allergy,Cetirizine,7,266,53.2,266
+ORD1038,Delhi,Allergy,Cetirizine,3,390,78.0,390
+ORD2019,Hyderabad,Calcium,Shelcal,2,162,32.4,162
+ORD1322,Bengaluru,Calcium,Shelcal,5,390,78.0,390
+ORD2479,Delhi,Antibiotic,Azithral 500,7,322,64.4,322
+ORD1634,Hyderabad,Allergy,Cetirizine,8,1320,264.0,1320
+ORD1280,Pune,Allergy,Cetirizine,9,1710,342.0,1710
+ORD1998,Hyderabad,Calcium,Shelcal,10,1510,302.0,1510
+ORD2209,Mumbai,Acidity,Pan 40,4,672,134.4,672
+ORD1086,Kolkata,Allergy,Cetirizine,1,83,16.6,83
+ORD2586,Mumbai,Calcium,Shelcal,9,1314,262.8,1314
+ORD2898,Kolkata,Diabetes,Metformin,10,480,96.0,480
+ORD1133,Jaipur,Calcium,Shelcal,10,610,122.0,610
+ORD1961,Bengaluru,Acidity,Pan 40,5,660,132.0,660
+ORD2217,Pune,Antibiotic,Azithral 500,7,168,33.6,168
+ORD2683,Delhi,Acidity,Pan 40,9,1350,270.0,1350
+ORD1766,Delhi,Cardiac,Ecosprin,10,950,190.0,950
+ORD2425,Delhi,Fever,Dolo 650,4,452,90.4,452
+ORD3055,Mumbai,Acidity,Pan 40,1,42,8.4,42
+ORD2034,Pune,Acidity,Pan 40,6,1032,206.4,1032
+ORD2954,Hyderabad,Allergy,Cetirizine,5,605,121.0,605
+ORD1489,Mumbai,Diabetes,Metformin,3,564,112.8,564
+ORD1922,Kolkata,Antibiotic,Azithral 500,7,140,27.999999999999996,140
+ORD2510,Hyderabad,Calcium,Shelcal,10,1270,254.0,1270
+ORD2833,Mumbai,Allergy,Cetirizine,7,658,131.6,658
+ORD1716,Ahmedabad,Antibiotic,Azithral 500,4,544,108.8,544
+ORD2578,Chennai,Antibiotic,Azithral 500,6,834,166.8,834
+ORD1386,Ahmedabad,Allergy,Cetirizine,1,22,4.4,22
+ORD3056,Chennai,Cardiac,Ecosprin,5,135,27.0,135
+ORD1651,Kolkata,Antibiotic,Azithral 500,10,1600,320.0,1600
+ORD3052,Mumbai,Antibiotic,Azithral 500,9,1791,358.2,1791
+ORD1104,Mumbai,Antibiotic,Azithral 500,4,284,56.8,284
+ORD1072,Hyderabad,Antibiotic,Azithral 500,2,236,47.2,236
+ORD2234,Chennai,Allergy,Cetirizine,10,810,162.0,810
+ORD2537,Bengaluru,Acidity,Pan 40,4,520,104.0,520
+ORD1457,Mumbai,Antibiotic,Azithral 500,7,245,49.0,245
+ORD2316,Kolkata,Fever,Dolo 650,6,1098,219.6,1098
+ORD1687,Mumbai,Fever,Dolo 650,2,206,41.2,206
+ORD2481,Delhi,Diabetes,Metformin,10,820,164.0,820
+ORD2078,Bengaluru,Antibiotic,Azithral 500,3,549,109.8,549
+ORD1703,Jaipur,Antibiotic,Azithral 500,9,1044,208.8,1044
+ORD2059,Chennai,Diabetes,Metformin,8,632,126.4,632
+ORD2797,Hyderabad,Fever,Dolo 650,6,156,31.2,156
+ORD3069,Hyderabad,Antibiotic,Azithral 500,8,1552,310.4,1552
+ORD2489,Ahmedabad,Allergy,Cetirizine,1,157,31.4,157
+ORD1278,Delhi,Diabetes,Metformin,9,1368,273.6,1368
+ORD1080,Jaipur,Cholesterol,Atorva,7,434,86.8,434
+ORD1628,Delhi,Calcium,Shelcal,3,201,40.2,201
+ORD1357,Bengaluru,Fever,Dolo 650,10,1240,248.0,1240
+ORD2675,Kolkata,Cholesterol,Atorva,2,66,13.2,66
+ORD2591,Jaipur,Diabetes,Metformin,2,124,24.8,124
+ORD1362,Hyderabad,Cholesterol,Atorva,7,1001,200.2,1001
+ORD1782,Hyderabad,Diabetes,Metformin,4,412,82.4,412
+ORD1527,Chennai,Cardiac,Ecosprin,4,252,50.4,252
+ORD2248,Jaipur,Calcium,Shelcal,6,696,139.2,696
+ORD1189,Hyderabad,Antibiotic,Azithral 500,10,1290,258.0,1290
+ORD1312,Kolkata,Acidity,Pan 40,8,1096,219.2,1096
+ORD2923,Jaipur,Allergy,Cetirizine,4,468,93.6,468
+ORD1445,Jaipur,Cholesterol,Atorva,10,530,106.0,530
+ORD3033,Bengaluru,Allergy,Cetirizine,4,160,32.0,160
+ORD2243,Jaipur,Cardiac,Ecosprin,4,96,19.2,96
+ORD1136,Ahmedabad,Cholesterol,Atorva,1,110,22.0,110
+ORD2123,Bengaluru,Fever,Dolo 650,6,930,186.0,930
+ORD1289,Chennai,Acidity,Pan 40,6,336,67.2,336
+ORD2192,Hyderabad,Cardiac,Ecosprin,9,927,185.4,927
+ORD1423,Mumbai,Antibiotic,Azithral 500,7,1358,271.6,1358
+ORD1462,Jaipur,Antibiotic,Azithral 500,6,180,36.0,180
+ORD1549,Mumbai,Diabetes,Metformin,10,1120,224.0,1120
+ORD2310,Mumbai,Allergy,Cetirizine,9,504,100.8,504
+ORD2238,Ahmedabad,Allergy,Cetirizine,2,358,71.6,358
+ORD2285,Chennai,Cholesterol,Atorva,6,1056,211.2,1056
+ORD1697,Pune,Diabetes,Metformin,1,132,26.4,132
+ORD2162,Kolkata,Acidity,Pan 40,6,924,184.8,924
+ORD2710,Pune,Diabetes,Metformin,8,448,89.6,448
+ORD2845,Delhi,Calcium,Shelcal,4,436,87.2,436
+ORD2264,Pune,Cholesterol,Atorva,10,1840,368.0,1840
+ORD1802,Kolkata,Calcium,Shelcal,9,1521,304.2,1521
+ORD1648,Bengaluru,Antibiotic,Azithral 500,10,390,78.0,390
+ORD1885,Pune,Diabetes,Metformin,7,238,47.6,238
+ORD2268,Chennai,Acidity,Pan 40,5,740,148.0,740
+ORD2381,Kolkata,Diabetes,Metformin,3,432,86.4,432
+ORD2655,Delhi,Antibiotic,Azithral 500,4,504,100.8,504
+ORD2065,Mumbai,Cholesterol,Atorva,6,972,194.4,972
+ORD1003,Chennai,Diabetes,Metformin,1,120,24.0,120
+ORD2058,Bengaluru,Diabetes,Metformin,10,1740,348.0,1740
+ORD1235,Ahmedabad,Calcium,Shelcal,7,553,110.6,553
+ORD2638,Delhi,Cholesterol,Atorva,1,108,21.6,108
+ORD2133,Chennai,Cardiac,Ecosprin,8,704,140.8,704
+ORD1347,Bengaluru,Diabetes,Metformin,10,540,108.0,540
+ORD2878,Kolkata,Antibiotic,Azithral 500,4,460,92.0,460
+ORD2645,Bengaluru,Cholesterol,Atorva,1,50,10.0,50
+ORD2371,Chennai,Fever,Dolo 650,4,764,152.8,764
+ORD2801,Hyderabad,Cholesterol,Atorva,7,609,121.8,609
+ORD1695,Chennai,Calcium,Shelcal,8,600,120.0,600
+ORD1587,Chennai,Antibiotic,Azithral 500,3,258,51.6,258
+ORD2313,Bengaluru,Diabetes,Metformin,9,1611,322.2,1611
+ORD2161,Ahmedabad,Acidity,Pan 40,1,92,18.4,92
+ORD1608,Pune,Diabetes,Metformin,8,880,176.0,880
+ORD1919,Bengaluru,Cardiac,Ecosprin,9,747,149.4,747
+ORD2417,Mumbai,Antibiotic,Azithral 500,8,232,46.4,232
+ORD2278,Hyderabad,Cholesterol,Atorva,1,85,17.0,85
+ORD1271,Pune,Antibiotic,Azithral 500,6,1050,210.0,1050
+ORD1639,Chennai,Antibiotic,Azithral 500,1,159,31.8,159
+ORD3028,Hyderabad,Calcium,Shelcal,9,576,115.2,576
+ORD2831,Delhi,Fever,Dolo 650,6,132,26.4,132
+ORD1657,Chennai,Cardiac,Ecosprin,9,819,163.8,819
+ORD2325,Delhi,Diabetes,Metformin,6,564,112.8,564
+ORD2409,Bengaluru,Calcium,Shelcal,8,1216,243.2,1216
+ORD2970,Ahmedabad,Cholesterol,Atorva,4,316,63.199999999999996,316
+ORD2007,Delhi,Acidity,Pan 40,10,1580,316.0,1580
+ORD1539,Jaipur,Cardiac,Ecosprin,6,522,104.4,522
+ORD2706,Delhi,Allergy,Cetirizine,5,175,35.0,175
+ORD2627,Kolkata,Cholesterol,Atorva,3,153,30.6,153
+ORD2524,Mumbai,Diabetes,Metformin,8,624,124.8,624
+ORD2866,Bengaluru,Allergy,Cetirizine,7,1043,208.6,1043
+ORD1363,Bengaluru,Antibiotic,Azithral 500,2,208,41.6,208
+ORD1032,Mumbai,Antibiotic,Azithral 500,1,184,36.8,184
+ORD1007,Ahmedabad,Antibiotic,Azithral 500,3,204,40.8,204
+ORD2976,Bengaluru,Calcium,Shelcal,8,864,172.8,864
+ORD1906,Bengaluru,Antibiotic,Azithral 500,4,192,38.4,192
+ORD1722,Pune,Allergy,Cetirizine,8,1600,320.0,1600
+ORD2388,Delhi,Fever,Dolo 650,6,606,121.2,606
+ORD2289,Bengaluru,Cardiac,Ecosprin,8,1584,316.8,1584
+ORD2905,Bengaluru,Cardiac,Ecosprin,2,68,13.6,68
+ORD1503,Bengaluru,Diabetes,Metformin,8,688,137.6,688
+ORD2934,Mumbai,Allergy,Cetirizine,1,26,5.2,26
+ORD2921,Pune,Calcium,Shelcal,2,44,8.8,44
+ORD2445,Chennai,Antibiotic,Azithral 500,1,83,16.6,83
+ORD1401,Chennai,Cholesterol,Atorva,2,358,71.6,358
+ORD2747,Ahmedabad,Cardiac,Ecosprin,10,800,160.0,800
+ORD2533,Bengaluru,Diabetes,Metformin,3,561,112.2,561
+ORD1682,Delhi,Cholesterol,Atorva,9,1143,228.6,1143
+ORD1190,Hyderabad,Cholesterol,Atorva,3,483,96.6,483
+ORD1835,Chennai,Diabetes,Metformin,4,700,140.0,700
+ORD2173,Kolkata,Cardiac,Ecosprin,9,792,158.4,792
+ORD1647,Bengaluru,Fever,Dolo 650,5,635,127.0,635
+ORD2164,Kolkata,Calcium,Shelcal,1,41,8.2,41
+ORD3038,Bengaluru,Cardiac,Ecosprin,6,1020,204.0,1020
+ORD2140,Ahmedabad,Cholesterol,Atorva,6,120,24.0,120
+ORD1064,Hyderabad,Antibiotic,Azithral 500,9,1395,279.0,1395
+ORD2570,Chennai,Cholesterol,Atorva,8,1048,209.6,1048
+ORD2732,Delhi,Fever,Dolo 650,10,1230,246.0,1230
+ORD2062,Hyderabad,Fever,Dolo 650,4,292,58.4,292
+ORD1448,Kolkata,Calcium,Shelcal,6,486,97.2,486
+ORD1707,Bengaluru,Fever,Dolo 650,6,1170,234.0,1170
+ORD2892,Chennai,Antibiotic,Azithral 500,5,245,49.0,245
+ORD1382,Kolkata,Diabetes,Metformin,1,149,29.8,149
+ORD1158,Pune,Diabetes,Metformin,6,744,148.8,744
+ORD1216,Kolkata,Diabetes,Metformin,8,376,75.2,376
+ORD1559,Ahmedabad,Fever,Dolo 650,1,161,32.2,161
+ORD1399,Chennai,Acidity,Pan 40,7,1099,219.8,1099
+ORD1993,Delhi,Calcium,Shelcal,10,610,122.0,610
+ORD1011,Bengaluru,Calcium,Shelcal,2,140,28.0,140
+ORD1012,Hyderabad,Allergy,Cetirizine,4,216,43.2,216
+ORD2069,Delhi,Cholesterol,Atorva,1,174,34.8,174
+ORD1470,Mumbai,Diabetes,Metformin,10,1210,242.0,1210
+ORD2754,Jaipur,Acidity,Pan 40,6,156,31.2,156
+ORD2624,Pune,Cardiac,Ecosprin,9,1377,275.4,1377
+ORD1669,Hyderabad,Calcium,Shelcal,6,516,103.2,516
+ORD2867,Bengaluru,Calcium,Shelcal,6,540,108.0,540
+ORD1355,Delhi,Cholesterol,Atorva,5,695,139.0,695
+ORD2064,Hyderabad,Antibiotic,Azithral 500,1,166,33.2,166
+ORD1786,Delhi,Acidity,Pan 40,7,392,78.4,392
+ORD1594,Delhi,Diabetes,Metformin,8,392,78.4,392
+ORD2734,Kolkata,Cholesterol,Atorva,3,459,91.8,459
+ORD3092,Bengaluru,Acidity,Pan 40,5,530,106.0,530
+ORD1728,Bengaluru,Antibiotic,Azithral 500,8,1480,296.0,1480
+ORD1524,Bengaluru,Acidity,Pan 40,3,81,16.2,81
+ORD2663,Delhi,Fever,Dolo 650,3,228,45.6,228
+ORD1868,Ahmedabad,Allergy,Cetirizine,10,1410,282.0,1410
+ORD1701,Kolkata,Calcium,Shelcal,1,193,38.6,193
+ORD2368,Jaipur,Fever,Dolo 650,7,1309,261.8,1309
+ORD1432,Mumbai,Acidity,Pan 40,2,380,76.0,380
+ORD1287,Kolkata,Fever,Dolo 650,7,1134,226.8,1134
+ORD2484,Chennai,Allergy,Cetirizine,8,1008,201.6,1008
+ORD1234,Chennai,Cardiac,Ecosprin,1,169,33.8,169
+ORD1106,Bengaluru,Antibiotic,Azithral 500,7,917,183.4,917
+ORD1351,Bengaluru,Calcium,Shelcal,9,1323,264.6,1323
+ORD2727,Kolkata,Calcium,Shelcal,6,1032,206.4,1032
+ORD2668,Hyderabad,Diabetes,Metformin,2,82,16.4,82
+ORD2397,Ahmedabad,Cardiac,Ecosprin,3,303,60.6,303
+ORD1729,Hyderabad,Antibiotic,Azithral 500,9,927,185.4,927
+ORD2774,Pune,Diabetes,Metformin,5,980,196.0,980
+ORD1617,Bengaluru,Fever,Dolo 650,3,84,16.8,84
+ORD2897,Jaipur,Allergy,Cetirizine,1,45,9.0,45
+ORD1825,Bengaluru,Calcium,Shelcal,10,1540,308.0,1540
+ORD2367,Kolkata,Allergy,Cetirizine,6,1104,220.8,1104
+ORD1999,Hyderabad,Fever,Dolo 650,6,960,192.0,960
+ORD1035,Bengaluru,Calcium,Shelcal,7,812,162.4,812
+ORD1771,Bengaluru,Calcium,Shelcal,6,744,148.8,744
+ORD2945,Kolkata,Cardiac,Ecosprin,10,1590,318.0,1590
+ORD1760,Ahmedabad,Fever,Dolo 650,8,1256,251.2,1256
+ORD2777,Mumbai,Antibiotic,Azithral 500,8,192,38.4,192
+ORD1856,Hyderabad,Fever,Dolo 650,8,1176,235.2,1176
+ORD2888,Hyderabad,Cholesterol,Atorva,9,234,46.8,234
+ORD1077,Delhi,Calcium,Shelcal,4,628,125.6,628
+ORD2407,Delhi,Allergy,Cetirizine,1,195,39.0,195
+ORD1740,Chennai,Acidity,Pan 40,6,534,106.8,534
+ORD1156,Delhi,Acidity,Pan 40,1,170,34.0,170
+ORD2174,Mumbai,Cholesterol,Atorva,6,444,88.8,444
+ORD2155,Hyderabad,Cardiac,Ecosprin,1,116,23.200000000000003,116
+ORD2708,Delhi,Cardiac,Ecosprin,9,1476,295.2,1476
+ORD3078,Chennai,Fever,Dolo 650,7,1358,271.6,1358
+ORD1599,Pune,Antibiotic,Azithral 500,1,120,24.0,120
+ORD2672,Bengaluru,Fever,Dolo 650,3,534,106.8,534
+ORD1844,Bengaluru,Diabetes,Metformin,3,243,48.6,243
+ORD3066,Hyderabad,Cholesterol,Atorva,4,796,159.2,796
+ORD1376,Hyderabad,Calcium,Shelcal,9,1089,217.8,1089
+ORD1320,Kolkata,Acidity,Pan 40,4,104,20.8,104
+ORD1894,Delhi,Fever,Dolo 650,3,315,63.0,315
+ORD1213,Kolkata,Antibiotic,Azithral 500,3,87,17.4,87
+ORD1010,Hyderabad,Cholesterol,Atorva,9,936,187.2,936
+ORD1785,Ahmedabad,Allergy,Cetirizine,5,225,45.0,225
+ORD1276,Hyderabad,Antibiotic,Azithral 500,3,414,82.8,414
+ORD2099,Mumbai,Fever,Dolo 650,2,288,57.6,288
+ORD3079,Bengaluru,Allergy,Cetirizine,4,660,132.0,660
+ORD1684,Mumbai,Acidity,Pan 40,4,316,63.2,316
+ORD1480,Delhi,Fever,Dolo 650,1,155,31.0,155
+ORD2715,Hyderabad,Antibiotic,Azithral 500,3,120,24.0,120
+ORD1107,Bengaluru,Allergy,Cetirizine,8,576,115.2,576
+ORD2808,Chennai,Cholesterol,Atorva,6,1068,213.6,1068
+ORD2828,Mumbai,Cholesterol,Atorva,3,588,117.6,588
+ORD1855,Mumbai,Diabetes,Metformin,1,190,38.0,190
+ORD2338,Bengaluru,Cholesterol,Atorva,8,1464,292.8,1464
+ORD1481,Chennai,Fever,Dolo 650,7,630,126.0,630
+ORD3094,Hyderabad,Calcium,Shelcal,4,656,131.2,656
+ORD2802,Hyderabad,Allergy,Cetirizine,7,294,58.8,294
+ORD2253,Bengaluru,Diabetes,Metformin,9,603,120.6,603
+ORD1248,Jaipur,Cardiac,Ecosprin,10,1400,280.0,1400
+ORD2369,Pune,Allergy,Cetirizine,3,210,42.0,210
+ORD2370,Hyderabad,Diabetes,Metformin,3,378,75.6,378
+ORD2477,Delhi,Antibiotic,Azithral 500,2,326,65.2,326
+ORD2118,Bengaluru,Cardiac,Ecosprin,10,550,110.0,550
+ORD2920,Hyderabad,Allergy,Cetirizine,7,413,82.6,413
+ORD1640,Kolkata,Allergy,Cetirizine,10,1330,266.0,1330
+ORD1067,Delhi,Calcium,Shelcal,6,126,25.2,126
+ORD1475,Pune,Acidity,Pan 40,5,865,173.0,865
+ORD1063,Bengaluru,Acidity,Pan 40,5,205,41.0,205
+ORD1485,Mumbai,Cholesterol,Atorva,3,93,18.6,93
+ORD1838,Ahmedabad,Calcium,Shelcal,1,76,15.2,76
+ORD3014,Delhi,Acidity,Pan 40,3,348,69.6,348
+ORD2659,Pune,Allergy,Cetirizine,4,432,86.4,432
+ORD1536,Jaipur,Antibiotic,Azithral 500,10,990,198.0,990
+ORD2840,Hyderabad,Diabetes,Metformin,8,1200,240.0,1200
+ORD2658,Jaipur,Acidity,Pan 40,2,326,65.2,326
+ORD2430,Bengaluru,Cardiac,Ecosprin,9,1773,354.6,1773
+ORD1705,Delhi,Cholesterol,Atorva,8,1272,254.39999999999998,1272
+ORD1618,Ahmedabad,Acidity,Pan 40,5,960,192.0,960
+ORD1679,Jaipur,Antibiotic,Azithral 500,6,168,33.6,168
+ORD1602,Chennai,Cholesterol,Atorva,3,93,18.6,93
+ORD1664,Mumbai,Diabetes,Metformin,10,250,50.0,250
+ORD2811,Bengaluru,Cholesterol,Atorva,7,546,109.2,546
+ORD1810,Chennai,Fever,Dolo 650,3,117,23.4,117
+ORD1403,Hyderabad,Cardiac,Ecosprin,10,730,146.0,730
+ORD1238,Chennai,Calcium,Shelcal,9,1341,268.2,1341
+ORD2087,Mumbai,Cholesterol,Atorva,9,441,88.2,441
+ORD2105,Delhi,Fever,Dolo 650,1,195,39.0,195
+ORD1318,Pune,Diabetes,Metformin,2,394,78.8,394
+ORD2402,Mumbai,Allergy,Cetirizine,7,140,28.0,140
+ORD1572,Mumbai,Antibiotic,Azithral 500,3,468,93.6,468
+ORD2641,Chennai,Fever,Dolo 650,5,205,41.0,205
+ORD1170,Mumbai,Calcium,Shelcal,7,1225,245.0,1225
+ORD2301,Kolkata,Calcium,Shelcal,3,330,66.0,330
+ORD2882,Mumbai,Acidity,Pan 40,7,917,183.4,917
+ORD1576,Delhi,Cholesterol,Atorva,5,855,171.0,855
+ORD1550,Bengaluru,Diabetes,Metformin,2,340,68.0,340
+ORD1956,Chennai,Calcium,Shelcal,1,143,28.6,143
+ORD1373,Bengaluru,Acidity,Pan 40,2,114,22.8,114
+ORD1093,Mumbai,Cholesterol,Atorva,10,520,104.0,520
+ORD2441,Kolkata,Fever,Dolo 650,2,198,39.6,198
+ORD2610,Kolkata,Fever,Dolo 650,3,471,94.2,471
+ORD2842,Kolkata,Acidity,Pan 40,4,608,121.60000000000001,608
+ORD2821,Jaipur,Diabetes,Metformin,7,973,194.6,973
+ORD1637,Hyderabad,Diabetes,Metformin,2,202,40.4,202
+ORD2272,Kolkata,Acidity,Pan 40,6,276,55.2,276
+ORD1962,Chennai,Fever,Dolo 650,10,620,124.0,620
+ORD1299,Bengaluru,Calcium,Shelcal,9,918,183.6,918
+ORD2773,Ahmedabad,Cardiac,Ecosprin,6,534,106.8,534
+ORD1913,Mumbai,Antibiotic,Azithral 500,5,300,59.99999999999999,300
+ORD2326,Bengaluru,Cholesterol,Atorva,1,42,8.4,42
+ORD2558,Hyderabad,Acidity,Pan 40,2,230,46.0,230
+ORD1888,Bengaluru,Cholesterol,Atorva,3,588,117.6,588
+ORD2582,Mumbai,Calcium,Shelcal,10,860,172.0,860
+ORD1493,Ahmedabad,Acidity,Pan 40,8,1128,225.6,1128
+ORD1958,Hyderabad,Cardiac,Ecosprin,9,603,120.6,603
+ORD1781,Bengaluru,Diabetes,Metformin,10,650,130.0,650
+ORD1827,Hyderabad,Cholesterol,Atorva,5,280,56.0,280
+ORD2784,Kolkata,Calcium,Shelcal,3,588,117.6,588
+ORD3013,Kolkata,Fever,Dolo 650,1,29,5.8,29
+ORD1004,Kolkata,Cardiac,Ecosprin,3,381,76.2,381
+ORD2698,Bengaluru,Fever,Dolo 650,2,272,54.4,272
+ORD1762,Kolkata,Acidity,Pan 40,3,279,55.8,279
+ORD1600,Hyderabad,Calcium,Shelcal,6,1032,206.4,1032
+ORD1564,Bengaluru,Cholesterol,Atorva,10,1330,266.0,1330
+ORD1488,Ahmedabad,Allergy,Cetirizine,7,210,42.0,210
+ORD2535,Mumbai,Diabetes,Metformin,6,438,87.6,438
+ORD2948,Jaipur,Fever,Dolo 650,2,60,12.0,60
+ORD1544,Chennai,Cardiac,Ecosprin,6,360,72.0,360
+ORD2854,Delhi,Cardiac,Ecosprin,4,736,147.2,736
+ORD1713,Delhi,Cholesterol,Atorva,1,144,28.8,144
+ORD1622,Mumbai,Fever,Dolo 650,3,69,13.8,69
+ORD1960,Delhi,Acidity,Pan 40,2,308,61.6,308
+ORD1883,Ahmedabad,Cardiac,Ecosprin,6,360,72.0,360
+ORD2936,Hyderabad,Antibiotic,Azithral 500,1,58,11.6,58
+ORD1219,Hyderabad,Cholesterol,Atorva,7,546,109.2,546
+ORD1764,Pune,Diabetes,Metformin,8,872,174.4,872
+ORD1137,Delhi,Acidity,Pan 40,5,785,157.0,785
+ORD1069,Jaipur,Acidity,Pan 40,9,1197,239.4,1197
+ORD2294,Bengaluru,Acidity,Pan 40,8,1272,254.4,1272
+ORD2005,Jaipur,Calcium,Shelcal,2,302,60.4,302
+ORD2070,Mumbai,Diabetes,Metformin,5,520,104.0,520
+ORD2255,Jaipur,Antibiotic,Azithral 500,6,144,28.8,144
+ORD1497,Jaipur,Diabetes,Metformin,4,672,134.4,672
+ORD2374,Bengaluru,Allergy,Cetirizine,2,326,65.2,326
+ORD1890,Kolkata,Acidity,Pan 40,1,121,24.2,121
+ORD1921,Delhi,Diabetes,Metformin,7,903,180.6,903
+ORD2579,Jaipur,Acidity,Pan 40,6,924,184.8,924
+ORD2418,Chennai,Allergy,Cetirizine,9,207,41.4,207
+ORD1436,Hyderabad,Cardiac,Ecosprin,2,234,46.8,234
+ORD1565,Chennai,Acidity,Pan 40,6,366,73.2,366
+ORD2488,Bengaluru,Calcium,Shelcal,2,124,24.8,124
+ORD1881,Mumbai,Calcium,Shelcal,1,166,33.2,166
+ORD1455,Jaipur,Fever,Dolo 650,3,369,73.8,369
+ORD1933,Jaipur,Diabetes,Metformin,7,728,145.6,728
+ORD2676,Ahmedabad,Acidity,Pan 40,5,590,118.0,590
+ORD2365,Delhi,Cholesterol,Atorva,6,744,148.8,744
+ORD2204,Chennai,Acidity,Pan 40,5,725,145.0,725
+ORD1516,Chennai,Acidity,Pan 40,6,864,172.8,864
+ORD2225,Bengaluru,Cardiac,Ecosprin,2,124,24.8,124
+ORD2022,Delhi,Acidity,Pan 40,1,60,12.0,60
+ORD3059,Kolkata,Acidity,Pan 40,5,550,110.0,550
+ORD1326,Delhi,Cholesterol,Atorva,7,427,85.4,427
+ORD1065,Ahmedabad,Acidity,Pan 40,10,1520,304.0,1520
+ORD1823,Bengaluru,Fever,Dolo 650,4,88,17.6,88
+ORD3041,Chennai,Diabetes,Metformin,2,392,78.4,392
+ORD2193,Ahmedabad,Diabetes,Metformin,4,668,133.6,668
+ORD2967,Pune,Allergy,Cetirizine,7,357,71.4,357
+ORD2883,Bengaluru,Cardiac,Ecosprin,3,489,97.8,489
+ORD1735,Mumbai,Fever,Dolo 650,3,63,12.6,63
+ORD1879,Ahmedabad,Antibiotic,Azithral 500,10,1840,368.0,1840
+ORD2885,Mumbai,Fever,Dolo 650,10,390,78.0,390
+ORD1790,Delhi,Antibiotic,Azithral 500,5,650,130.0,650
+ORD2394,Pune,Fever,Dolo 650,6,120,24.0,120
+ORD2033,Bengaluru,Cardiac,Ecosprin,5,1000,200.0,1000
+ORD2987,Hyderabad,Allergy,Cetirizine,6,576,115.2,576
+ORD2562,Chennai,Fever,Dolo 650,1,165,33.0,165
+ORD2202,Bengaluru,Cholesterol,Atorva,3,210,42.0,210
+ORD2358,Pune,Calcium,Shelcal,5,320,64.0,320
+ORD2720,Kolkata,Diabetes,Metformin,3,147,29.4,147
+ORD2837,Pune,Diabetes,Metformin,10,300,60.0,300
+ORD2187,Hyderabad,Allergy,Cetirizine,4,620,124.0,620
+ORD2613,Jaipur,Acidity,Pan 40,8,576,115.2,576
+ORD1923,Hyderabad,Diabetes,Metformin,3,480,96.0,480
+ORD1094,Chennai,Allergy,Cetirizine,4,644,128.8,644
+ORD2555,Chennai,Acidity,Pan 40,10,1800,360.0,1800
+ORD2241,Chennai,Diabetes,Metformin,4,684,136.8,684
+ORD1176,Bengaluru,Fever,Dolo 650,5,385,77.0,385
+ORD2615,Hyderabad,Fever,Dolo 650,4,132,26.4,132
+ORD1887,Jaipur,Allergy,Cetirizine,3,435,87.0,435
+ORD3057,Kolkata,Diabetes,Metformin,7,392,78.4,392
+ORD3071,Kolkata,Calcium,Shelcal,6,576,115.2,576
+ORD2685,Kolkata,Allergy,Cetirizine,2,354,70.8,354
+ORD2117,Hyderabad,Antibiotic,Azithral 500,6,378,75.6,378
+ORD1972,Delhi,Diabetes,Metformin,6,1038,207.6,1038
+ORD1308,Delhi,Diabetes,Metformin,10,890,178.0,890
+ORD2835,Bengaluru,Fever,Dolo 650,6,456,91.2,456
+ORD2846,Chennai,Fever,Dolo 650,1,130,26.0,130
+ORD1546,Ahmedabad,Fever,Dolo 650,7,371,74.2,371
+ORD3018,Hyderabad,Cardiac,Ecosprin,7,1351,270.2,1351
+ORD3012,Mumbai,Allergy,Cetirizine,2,298,59.6,298
+ORD2134,Mumbai,Diabetes,Metformin,5,220,44.0,220
+ORD3081,Hyderabad,Allergy,Cetirizine,4,568,113.6,568
+ORD2763,Delhi,Diabetes,Metformin,3,225,45.0,225
+ORD2545,Hyderabad,Antibiotic,Azithral 500,5,230,46.0,230
+ORD3089,Mumbai,Acidity,Pan 40,3,135,27.0,135
+ORD2144,Mumbai,Fever,Dolo 650,5,455,91.0,455
+ORD2806,Pune,Acidity,Pan 40,6,150,30.0,150
+ORD2686,Bengaluru,Fever,Dolo 650,7,147,29.4,147
+ORD2166,Hyderabad,Antibiotic,Azithral 500,10,590,118.0,590
+ORD1395,Pune,Allergy,Cetirizine,8,672,134.4,672
+ORD2319,Delhi,Fever,Dolo 650,5,480,96.0,480
+ORD2400,Pune,Allergy,Cetirizine,5,630,126.0,630
+ORD2807,Bengaluru,Antibiotic,Azithral 500,6,840,168.0,840
+ORD1871,Kolkata,Allergy,Cetirizine,6,948,189.6,948
+ORD2252,Bengaluru,Cholesterol,Atorva,6,396,79.2,396
+ORD1512,Mumbai,Calcium,Shelcal,5,480,96.0,480
+ORD2359,Kolkata,Acidity,Pan 40,2,248,49.6,248
+ORD2940,Bengaluru,Allergy,Cetirizine,3,489,97.8,489
+ORD2767,Delhi,Acidity,Pan 40,8,480,96.0,480
+ORD1815,Hyderabad,Cholesterol,Atorva,9,1062,212.4,1062
+ORD1456,Pune,Calcium,Shelcal,8,1344,268.8,1344
+ORD2933,Bengaluru,Cardiac,Ecosprin,1,194,38.8,194
+ORD1686,Bengaluru,Calcium,Shelcal,9,1602,320.4,1602
+ORD2331,Pune,Diabetes,Metformin,4,320,64.0,320
+ORD2200,Delhi,Cardiac,Ecosprin,7,378,75.6,378
+ORD1231,Chennai,Calcium,Shelcal,3,186,37.2,186
+ORD2937,Mumbai,Diabetes,Metformin,5,135,27.0,135
+ORD1301,Delhi,Calcium,Shelcal,4,680,136.0,680
+ORD1734,Kolkata,Acidity,Pan 40,8,440,88.0,440
+ORD1752,Chennai,Antibiotic,Azithral 500,9,1512,302.4,1512
+ORD3076,Ahmedabad,Cardiac,Ecosprin,7,924,184.8,924
+ORD1667,Bengaluru,Cardiac,Ecosprin,2,74,14.8,74
+ORD2881,Bengaluru,Allergy,Cetirizine,6,324,64.8,324
+ORD3046,Bengaluru,Allergy,Cetirizine,6,1032,206.4,1032
+ORD1450,Delhi,Cardiac,Ecosprin,1,181,36.2,181
+ORD2823,Hyderabad,Antibiotic,Azithral 500,4,148,29.6,148
+ORD1601,Delhi,Acidity,Pan 40,10,1640,328.0,1640
+ORD1185,Ahmedabad,Acidity,Pan 40,1,63,12.6,63
+ORD1749,Mumbai,Diabetes,Metformin,1,98,19.6,98
+ORD2682,Bengaluru,Diabetes,Metformin,2,178,35.6,178
+ORD1459,Pune,Calcium,Shelcal,8,1400,280.0,1400
+ORD1915,Kolkata,Allergy,Cetirizine,2,208,41.6,208
+ORD1471,Hyderabad,Allergy,Cetirizine,4,368,73.6,368
+ORD2997,Pune,Cholesterol,Atorva,4,568,113.6,568
+ORD2364,Kolkata,Diabetes,Metformin,8,944,188.8,944
+ORD1068,Hyderabad,Calcium,Shelcal,7,931,186.2,931
+ORD2366,Jaipur,Calcium,Shelcal,9,639,127.8,639
+ORD1397,Bengaluru,Cardiac,Ecosprin,1,71,14.2,71
+ORD2128,Delhi,Calcium,Shelcal,2,264,52.8,264
+ORD2946,Pune,Calcium,Shelcal,2,82,16.4,82
+ORD1521,Bengaluru,Cardiac,Ecosprin,5,235,47.0,235
+ORD2206,Bengaluru,Antibiotic,Azithral 500,5,470,94.0,470
+ORD2644,Bengaluru,Allergy,Cetirizine,1,53,10.6,53
+ORD1166,Bengaluru,Allergy,Cetirizine,6,246,49.2,246
+ORD1990,Chennai,Diabetes,Metformin,10,810,162.0,810
+ORD1659,Delhi,Allergy,Cetirizine,2,110,22.0,110
+ORD1070,Bengaluru,Acidity,Pan 40,1,114,22.8,114
+ORD1013,Mumbai,Calcium,Shelcal,2,212,42.4,212
+ORD3011,Hyderabad,Diabetes,Metformin,5,650,130.0,650
+ORD1223,Ahmedabad,Acidity,Pan 40,9,855,171.0,855
+ORD1632,Hyderabad,Diabetes,Metformin,3,591,118.2,591
+ORD2265,Jaipur,Acidity,Pan 40,3,192,38.4,192
+ORD2247,Bengaluru,Acidity,Pan 40,8,1320,264.0,1320
+ORD2953,Kolkata,Calcium,Shelcal,2,114,22.8,114
+ORD2822,Delhi,Cholesterol,Atorva,3,60,12.0,60
+ORD2262,Bengaluru,Antibiotic,Azithral 500,2,332,66.4,332
+ORD2779,Kolkata,Allergy,Cetirizine,5,665,133.0,665
+ORD1548,Hyderabad,Diabetes,Metformin,7,1092,218.4,1092
+ORD1228,Jaipur,Fever,Dolo 650,7,1029,205.8,1029
+ORD2604,Kolkata,Allergy,Cetirizine,3,312,62.4,312
+ORD1744,Bengaluru,Fever,Dolo 650,9,513,102.6,513
+ORD1267,Kolkata,Cholesterol,Atorva,2,370,74.0,370
+ORD2376,Delhi,Calcium,Shelcal,5,610,122.0,610
+ORD1845,Bengaluru,Diabetes,Metformin,3,507,101.4,507
+ORD2468,Bengaluru,Allergy,Cetirizine,1,138,27.6,138
+ORD1793,Kolkata,Antibiotic,Azithral 500,5,385,77.0,385
+ORD2654,Kolkata,Calcium,Shelcal,4,372,74.4,372
+ORD2153,Mumbai,Diabetes,Metformin,1,26,5.2,26
+ORD2849,Pune,Cardiac,Ecosprin,10,1350,270.0,1350
+ORD2618,Hyderabad,Acidity,Pan 40,4,608,121.6,608
+ORD3020,Hyderabad,Cardiac,Ecosprin,10,1080,216.0,1080
+ORD1691,Ahmedabad,Cholesterol,Atorva,3,462,92.4,462
+ORD2748,Ahmedabad,Cholesterol,Atorva,2,258,51.6,258
+ORD2973,Bengaluru,Fever,Dolo 650,1,182,36.4,182
+ORD2421,Kolkata,Cholesterol,Atorva,2,236,47.2,236
+ORD1988,Hyderabad,Acidity,Pan 40,8,736,147.20000000000002,736
+ORD2983,Jaipur,Fever,Dolo 650,10,1950,390.0,1950
+ORD1116,Chennai,Calcium,Shelcal,8,648,129.6,648
+ORD2486,Pune,Diabetes,Metformin,3,321,64.2,321
+ORD1297,Bengaluru,Calcium,Shelcal,2,254,50.8,254
+ORD1047,Kolkata,Allergy,Cetirizine,8,1360,272.0,1360
+ORD2760,Chennai,Antibiotic,Azithral 500,1,173,34.6,173
+ORD2689,Delhi,Fever,Dolo 650,3,591,118.2,591
+ORD1264,Kolkata,Cardiac,Ecosprin,7,1358,271.6,1358
+ORD1874,Delhi,Acidity,Pan 40,8,1024,204.8,1024
+ORD1454,Chennai,Calcium,Shelcal,2,374,74.8,374
+ORD1434,Hyderabad,Cholesterol,Atorva,3,102,20.4,102
+ORD1605,Ahmedabad,Fever,Dolo 650,5,800,160.0,800
+ORD2861,Mumbai,Cardiac,Ecosprin,3,471,94.2,471
+ORD2928,Bengaluru,Diabetes,Metformin,2,252,50.4,252
+ORD1743,Chennai,Cardiac,Ecosprin,5,525,105.0,525
+ORD1416,Hyderabad,Allergy,Cetirizine,3,294,58.8,294
+ORD1202,Mumbai,Antibiotic,Azithral 500,5,410,82.0,410
+ORD2587,Jaipur,Allergy,Cetirizine,3,156,31.2,156
+ORD1316,Chennai,Cholesterol,Atorva,7,350,70.0,350
+ORD1378,Bengaluru,Calcium,Shelcal,9,522,104.4,522
+ORD3068,Delhi,Calcium,Shelcal,9,1134,226.8,1134
+ORD1209,Delhi,Calcium,Shelcal,6,930,186.0,930
+ORD1575,Hyderabad,Calcium,Shelcal,4,612,122.4,612
+ORD2121,Pune,Fever,Dolo 650,1,61,12.2,61
+ORD2497,Delhi,Diabetes,Metformin,9,1116,223.2,1116
+ORD2352,Ahmedabad,Cardiac,Ecosprin,6,816,163.20000000000002,816
+ORD2526,Mumbai,Cholesterol,Atorva,9,441,88.2,441
+ORD1182,Hyderabad,Allergy,Cetirizine,4,428,85.6,428
+ORD1768,Mumbai,Diabetes,Metformin,5,945,189.0,945
+ORD2122,Chennai,Antibiotic,Azithral 500,10,1450,290.0,1450
+ORD1508,Ahmedabad,Acidity,Pan 40,5,235,47.0,235
+ORD1022,Pune,Diabetes,Metformin,8,1416,283.2,1416
+ORD2628,Kolkata,Allergy,Cetirizine,6,660,132.0,660
+ORD2119,Bengaluru,Allergy,Cetirizine,3,240,48.0,240
+ORD2739,Hyderabad,Fever,Dolo 650,1,78,15.6,78
+ORD1547,Bengaluru,Acidity,Pan 40,6,726,145.2,726
+ORD2288,Delhi,Acidity,Pan 40,4,484,96.8,484
+ORD2363,Kolkata,Antibiotic,Azithral 500,6,396,79.2,396
+ORD1419,Kolkata,Allergy,Cetirizine,4,408,81.6,408
+ORD1085,Jaipur,Acidity,Pan 40,4,568,113.6,568
+ORD1369,Chennai,Calcium,Shelcal,6,606,121.2,606
+ORD2750,Delhi,Allergy,Cetirizine,6,1080,216.0,1080
+ORD2293,Chennai,Fever,Dolo 650,1,64,12.8,64
+ORD1733,Bengaluru,Allergy,Cetirizine,3,69,13.8,69
+ORD1229,Hyderabad,Antibiotic,Azithral 500,2,290,57.99999999999999,290
+ORD1789,Kolkata,Diabetes,Metformin,8,864,172.8,864
+ORD2456,Delhi,Allergy,Cetirizine,10,1550,310.0,1550
+ORD2239,Pune,Cardiac,Ecosprin,8,440,88.0,440
+ORD1249,Kolkata,Fever,Dolo 650,6,852,170.4,852
+ORD1364,Ahmedabad,Cardiac,Ecosprin,3,60,12.0,60
+ORD2625,Kolkata,Allergy,Cetirizine,10,430,86.0,430
+ORD2043,Chennai,Cholesterol,Atorva,9,1116,223.2,1116
+ORD1188,Mumbai,Cholesterol,Atorva,3,342,68.4,342
+ORD2136,Bengaluru,Allergy,Cetirizine,6,1068,213.6,1068
+ORD3035,Mumbai,Acidity,Pan 40,8,400,80.0,400
+ORD1478,Chennai,Calcium,Shelcal,3,462,92.4,462
+ORD1334,Mumbai,Acidity,Pan 40,9,1107,221.4,1107
+ORD1910,Delhi,Acidity,Pan 40,8,1336,267.2,1336
+ORD2487,Bengaluru,Cardiac,Ecosprin,8,728,145.6,728
+ORD1724,Jaipur,Fever,Dolo 650,2,388,77.6,388
+ORD2927,Ahmedabad,Acidity,Pan 40,9,1494,298.8,1494
+ORD2550,Bengaluru,Calcium,Shelcal,9,1665,333.0,1665
+ORD1139,Mumbai,Allergy,Cetirizine,10,1270,254.0,1270
+ORD1075,Kolkata,Cholesterol,Atorva,6,594,118.8,594
+ORD2103,Bengaluru,Fever,Dolo 650,10,870,174.0,870
+ORD1984,Delhi,Diabetes,Metformin,5,550,110.0,550
+ORD1534,Bengaluru,Allergy,Cetirizine,10,1210,242.0,1210
+ORD2082,Chennai,Allergy,Cetirizine,10,1690,338.0,1690
+ORD1365,Jaipur,Cholesterol,Atorva,10,1940,388.0,1940
+ORD2312,Hyderabad,Acidity,Pan 40,9,1431,286.2,1431
+ORD1073,Mumbai,Allergy,Cetirizine,10,720,144.0,720
+ORD1259,Hyderabad,Acidity,Pan 40,9,1215,243.0,1215
+ORD2335,Ahmedabad,Allergy,Cetirizine,9,1296,259.2,1296
+ORD1291,Hyderabad,Allergy,Cetirizine,3,234,46.8,234
+ORD2491,Hyderabad,Acidity,Pan 40,1,109,21.8,109
+ORD2073,Delhi,Diabetes,Metformin,8,1248,249.6,1248
+ORD2957,Kolkata,Cholesterol,Atorva,9,702,140.4,702
+ORD1292,Mumbai,Cardiac,Ecosprin,9,1701,340.2,1701
+ORD2539,Jaipur,Diabetes,Metformin,2,354,70.8,354
+ORD1975,Kolkata,Acidity,Pan 40,10,1000,200.0,1000
+ORD2984,Delhi,Calcium,Shelcal,6,1176,235.2,1176
+ORD2269,Jaipur,Antibiotic,Azithral 500,7,147,29.4,147
+ORD1296,Mumbai,Acidity,Pan 40,3,117,23.4,117
+ORD2273,Chennai,Diabetes,Metformin,7,854,170.8,854
+ORD2862,Bengaluru,Cardiac,Ecosprin,2,56,11.2,56
+ORD1660,Kolkata,Cardiac,Ecosprin,8,1560,312.0,1560
+ORD2437,Ahmedabad,Cardiac,Ecosprin,6,372,74.4,372
+ORD1201,Mumbai,Calcium,Shelcal,3,219,43.8,219
+ORD2786,Mumbai,Diabetes,Metformin,2,72,14.4,72
+ORD3065,Delhi,Cardiac,Ecosprin,5,625,125.0,625
+ORD2852,Jaipur,Antibiotic,Azithral 500,10,1120,224.0,1120
+ORD2648,Hyderabad,Diabetes,Metformin,8,832,166.4,832
+ORD2011,Kolkata,Cholesterol,Atorva,6,834,166.8,834
+ORD2049,Bengaluru,Fever,Dolo 650,8,1168,233.6,1168
+ORD2318,Delhi,Antibiotic,Azithral 500,1,143,28.6,143
+ORD1417,Jaipur,Diabetes,Metformin,10,280,56.0,280
+ORD1916,Hyderabad,Calcium,Shelcal,4,384,76.8,384
+ORD1623,Jaipur,Fever,Dolo 650,10,950,190.0,950
+ORD2159,Bengaluru,Acidity,Pan 40,10,710,142.0,710
+ORD1761,Delhi,Calcium,Shelcal,6,960,192.0,960
+ORD2051,Jaipur,Fever,Dolo 650,8,1040,208.0,1040
+ORD1438,Chennai,Fever,Dolo 650,5,195,39.0,195
+ORD1028,Delhi,Calcium,Shelcal,5,615,123.0,615
+ORD2989,Hyderabad,Calcium,Shelcal,7,483,96.6,483
+ORD2459,Delhi,Allergy,Cetirizine,4,392,78.4,392
+ORD2565,Jaipur,Cholesterol,Atorva,9,189,37.8,189
+ORD2100,Chennai,Diabetes,Metformin,7,735,147.0,735
+ORD1952,Bengaluru,Antibiotic,Azithral 500,7,1169,233.8,1169
+ORD1794,Delhi,Fever,Dolo 650,9,1404,280.8,1404

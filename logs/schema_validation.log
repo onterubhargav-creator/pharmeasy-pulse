@@ -1,0 +1,2 @@
+VALID: {'status': 'validated', 'row_count': 2100, 'missing_columns': []}
+BLOCKED: {'status': 'blocked_schema', 'row_count': 2100, 'missing_columns': ['profit_inr']}

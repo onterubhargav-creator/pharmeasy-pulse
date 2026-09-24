@@ -1,0 +1,15 @@
+=== Task 1.2 Started ===
+Raw rows: 2159 | Cols: ['order_id', 'region', 'category', 'product', 'quantity', 'sales_inr', 'profit_inr']
+Step1 - Removed duplicates: 100 | Remaining: 2059
+Step2 - Normalized regions: ['Bengaluru', 'Guntur', 'Hyderabad', 'Karimnagar', 'Nellore', 'Tirupati', 'Vijayawada', 'Visakhapatnam', 'Warangal']
+Step3 - Lookup size: 9
+Step3 - Missing category before: 190 after: 0
+  Mean margin Allergy: 0.2000
+  Mean margin Antibiotic: 0.2000
+  Mean margin Fever: 0.2000
+  Mean margin First Aid: 0.2000
+  Mean margin Hydration: 0.2000
+  Mean margin Hygiene: 0.2000
+  Mean margin Supplements: 0.2000
+Step4 - Missing profit_inr before: 178 after: 0
+Step5 - Saved C:\Users\BHARGAV\OneDrive\Desktop\pharmeasy-pulse\data\pharmeasy_orders_clean.csv with 2059 rows

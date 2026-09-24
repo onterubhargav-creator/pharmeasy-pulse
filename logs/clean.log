@@ -1,0 +1,1 @@
+raw=2159 clean=2108 columns=['order_id', 'region', 'category', 'product', 'quantity', 'sales_inr', 'profit_inr', 'order_value_inr', 'order_date']
